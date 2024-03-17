@@ -1,0 +1,1519 @@
+2024-03-17 18:06:56,965 INFO consumers.py: Client connected via Websocket.
+2024-03-17 18:06:56,977 INFO tests.py: Starts another test in TestClientConsumer.
+2024-03-17 18:06:57,363 INFO tests.py: Starts another test in TestClientConsumer.
+2024-03-17 18:06:57,700 CRITICAL consumers.py: Filtering conditional "FAIL" unknown. Interpreted as "=".
+2024-03-17 18:06:57,701 INFO tests.py: Starts another test in TestClientConsumer.
+2024-03-17 18:06:58,058 INFO tests.py: Starts another test in TestClientConsumer.
+2024-03-17 18:06:58,414 INFO tests.py: Starts another test in TestClientConsumer.
+2024-03-17 18:06:58,737 INFO tests.py: Starts another test in TestClientConsumer.
+2024-03-17 18:06:59,037 CRITICAL consumers.py: Sorting conditional "^" unknown. Interpreted as "<".
+2024-03-17 18:06:59,037 INFO tests.py: Starts another test in TestSolMateModel.
+2024-03-17 18:06:59,400 INFO tests.py: Starts another test in TestSolMateModel.
+2024-03-17 18:06:59,727 INFO tests.py: True: Model exists.
+2024-03-17 18:06:59,727 INFO tests.py: Starts another test in TestSolMateModel.
+2024-03-17 18:07:00,101 INFO tests.py: Starts another test in TestSolMateModel.
+2024-03-17 18:07:00,423 INFO tests.py: Starts another test in TestSolMateModel.
+2024-03-17 18:07:03,741 INFO tests.py: Starts another test in TestSolServerConsumer.
+2024-03-17 18:07:03,751 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:07:03,754 INFO tests.py: Starts another test in TestSolServerConsumer.
+2024-03-17 18:07:03,760 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:07:03,762 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000184412556C0> with code 1000
+2024-03-17 18:07:03,764 INFO tests.py: Starts another test in TestSolServerConsumer.
+2024-03-17 18:07:03,767 INFO tests.py: Starts another test in TestSolServerConsumer.
+2024-03-17 18:07:03,769 INFO tests.py: Starts another test in TestSolServerConsumer.
+2024-03-17 18:07:03,779 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:07:03,780 INFO consumers.py: received: {'type': 'UPDT', 'message': '0203:1234:{"_local_time": "2024-03-17 18:07:03.780490", "power_inject": 340}'}
+2024-03-17 18:08:32,781 INFO consumers.py: Client connected via Websocket.
+2024-03-17 18:09:06,970 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:06,992 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:06,993 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:06,995 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:06,996 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:06,997 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:06,999 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,000 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,001 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,002 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,003 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,004 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,004 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,006 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,007 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,007 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,008 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,008 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,010 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,011 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,011 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,012 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,013 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,014 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,016 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,017 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,018 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,018 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,018 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,018 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,018 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,018 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,018 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,024 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,025 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,026 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,027 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,028 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,029 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,029 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,029 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,034 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,036 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,036 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,037 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,038 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,039 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,041 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,042 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:07,042 INFO consumers.py: SolMate connected over websocket.
+2024-03-17 18:09:09,996 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0003:{"battery": 10, "software_version": "v8.5", "country": "AT", "postcode": 7928, "power_income": 56, "power_inject": 184, "power_consumption": 93}'}
+2024-03-17 18:09:09,998 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0005:{"battery": 317, "software_version": "v7.4", "country": "SI", "postcode": 8747, "power_income": 122, "power_inject": 6, "power_consumption": 84}'}
+2024-03-17 18:09:10,001 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0002:{"battery": 386, "software_version": "v6.5", "country": "CH", "postcode": 8153, "power_income": 243, "power_inject": 308, "power_consumption": 358}'}
+2024-03-17 18:09:10,003 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0004:{"battery": 259, "software_version": "v0.4", "country": "IT", "postcode": 7859, "power_income": 258, "power_inject": 382, "power_consumption": 348}'}
+2024-03-17 18:09:10,006 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0001:{"battery": 55, "software_version": "v0.0", "country": "SI", "postcode": 9562, "power_income": 15, "power_inject": 228, "power_consumption": 76}'}
+2024-03-17 18:09:10,817 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0006:{"battery": 10, "software_version": "v5.8", "country": "IT", "postcode": 7819}'}
+2024-03-17 18:09:10,818 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0002:{"power_consumption": 359}'}
+2024-03-17 18:09:10,847 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0006:{"power_income": 122, "power_inject": 277, "power_consumption": 296, "battery": 261}'}
+2024-03-17 18:09:11,826 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0007:{"battery": 16, "software_version": "v7.2", "country": "IT", "postcode": 9515}'}
+2024-03-17 18:09:11,829 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0005:{"power_inject": 7}'}
+2024-03-17 18:09:11,830 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0004:{"power_inject": 383}'}
+2024-03-17 18:09:11,861 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0007:{"power_income": 7, "power_inject": 151, "power_consumption": 429, "battery": 24}'}
+2024-03-17 18:09:12,830 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0008:{"battery": 2, "software_version": "v8.4", "country": "IT", "postcode": 7472}'}
+2024-03-17 18:09:12,832 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0003:{"power_consumption": 94}'}
+2024-03-17 18:09:12,851 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0008:{"power_income": 73, "power_inject": 335, "power_consumption": 118, "battery": 99}'}
+2024-03-17 18:09:14,027 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0009:{"battery": 75, "software_version": "v0.3", "country": "AT", "postcode": 8560, "power_income": 256, "power_inject": 31, "power_consumption": 155}'}
+2024-03-17 18:09:14,851 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0003:{"battery": 11}'}
+2024-03-17 18:09:14,853 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0010:{"battery": 5, "software_version": "v0.0", "country": "CH", "postcode": 9552}'}
+2024-03-17 18:09:14,853 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0006:{"power_consumption": 297}'}
+2024-03-17 18:09:14,889 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0010:{"power_income": 365, "power_inject": 380, "power_consumption": 386, "battery": 179}'}
+2024-03-17 18:09:15,882 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0005:{"power_income": 123}'}
+2024-03-17 18:09:15,886 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0011:{"battery": 173, "software_version": "v6.6", "country": "SI", "postcode": 8567, "power_income": 246, "power_inject": 34, "power_consumption": 177}'}
+2024-03-17 18:09:16,927 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0001:{"battery": 56}'}
+2024-03-17 18:09:16,930 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0012:{"battery": 404, "software_version": "v3.4", "country": "SI", "postcode": 8115, "power_income": 41, "power_inject": 204, "power_consumption": 411}'}
+2024-03-17 18:09:16,932 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0006:{"power_inject": 278}'}
+2024-03-17 18:09:17,811 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0004:{"battery": 260}'}
+2024-03-17 18:09:17,945 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0013:{"battery": 157, "software_version": "v7.1", "country": "CH", "postcode": 8437, "power_income": 241, "power_inject": 78, "power_consumption": 144}'}
+2024-03-17 18:09:18,962 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0009:{"battery": 76}'}
+2024-03-17 18:09:18,965 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0006:{"power_consumption": 298, "battery": 262}'}
+2024-03-17 18:09:18,967 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0002:{"power_consumption": 360}'}
+2024-03-17 18:09:18,967 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0012:{"power_consumption": 412}'}
+2024-03-17 18:09:18,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0014:{"battery": 155, "software_version": "v2.2", "country": "IT", "postcode": 8731, "power_income": 146, "power_inject": 16, "power_consumption": 332}'}
+2024-03-17 18:09:19,857 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0007:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:19,860 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0004:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,011 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0006:{"local_time": "2024-03-17 18:09:19.851632", "power_consumption": 299}'}
+2024-03-17 18:09:20,021 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0017:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,039 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0028:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,051 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0014:{"local_time": "2024-03-17 18:09:19.851632", "power_income": 147}'}
+2024-03-17 18:09:20,055 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0040:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,070 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0041:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,078 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0001:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,088 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0009:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,107 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0013:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,142 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0047:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,146 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0002:{"power_inject": 309, "local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,148 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0044:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,151 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0032:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,156 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0050:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,157 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0039:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,159 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0029:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,166 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0024:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,169 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0003:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,170 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0015:{"battery": 383, "software_version": "v2.3", "country": "DE", "postcode": 7033, "power_income": 131, "power_inject": 249, "power_consumption": 240}'}
+2024-03-17 18:09:20,171 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0005:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,172 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0043:{"local_time": "2024-03-17 18:09:19.851632"}'}
+2024-03-17 18:09:20,993 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0016:{"battery": 374, "software_version": "v8.2", "country": "AT", "postcode": 9047, "power_income": 383, "power_inject": 101, "power_consumption": 34}'}
+2024-03-17 18:09:20,997 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0009:{"power_consumption": 156}'}
+2024-03-17 18:09:21,001 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0003:{"battery": 12}'}
+2024-03-17 18:09:21,003 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0014:{"power_income": 148}'}
+2024-03-17 18:09:21,813 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0003:{"power_inject": 185}'}
+2024-03-17 18:09:21,870 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0015:{"power_inject": 250}'}
+2024-03-17 18:09:22,028 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0017:{"battery": 102, "software_version": "v5.4", "country": "AT", "postcode": 9510, "power_income": 190, "power_inject": 267, "power_consumption": 67}'}
+2024-03-17 18:09:22,862 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0002:{"power_income": 245}'}
+2024-03-17 18:09:22,910 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0005:{"battery": 318}'}
+2024-03-17 18:09:22,913 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0012:{"battery": 405}'}
+2024-03-17 18:09:23,073 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0018:{"battery": 169, "software_version": "v7.6", "country": "DE", "postcode": 9967, "power_income": 291, "power_inject": 410, "power_consumption": 216}'}
+2024-03-17 18:09:23,075 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0006:{"power_consumption": 300}'}
+2024-03-17 18:09:23,912 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0013:{"power_inject": 80}'}
+2024-03-17 18:09:23,916 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0019:{"battery": 6, "software_version": "v1.3", "country": "AT", "postcode": 9743, "power_income": 240, "power_inject": 336, "power_consumption": 24}'}
+2024-03-17 18:09:23,918 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0006:{"power_inject": 279}'}
+2024-03-17 18:09:24,958 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0004:{"power_inject": 384}'}
+2024-03-17 18:09:24,961 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0020:{"battery": 396, "software_version": "v2.6", "country": "CH", "postcode": 7812, "power_income": 339, "power_inject": 163, "power_consumption": 117}'}
+2024-03-17 18:09:24,963 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0003:{"power_income": 57}'}
+2024-03-17 18:09:24,964 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0002:{"power_income": 246}'}
+2024-03-17 18:09:25,988 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0012:{"power_income": 42}'}
+2024-03-17 18:09:25,989 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0021:{"battery": 156, "software_version": "v6.8", "country": "CH", "postcode": 7710, "power_income": 344, "power_inject": 114, "power_consumption": 18}'}
+2024-03-17 18:09:25,991 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0011:{"power_consumption": 178}'}
+2024-03-17 18:09:25,993 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0002:{"battery": 387}'}
+2024-03-17 18:09:27,027 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0014:{"power_income": 149}'}
+2024-03-17 18:09:27,029 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0022:{"battery": 240, "software_version": "v8.3", "country": "AT", "postcode": 7614, "power_income": 94, "power_inject": 2, "power_consumption": 384}'}
+2024-03-17 18:09:27,031 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0006:{"power_income": 123, "power_consumption": 301}'}
+2024-03-17 18:09:27,032 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0016:{"battery": 375, "power_inject": 102}'}
+2024-03-17 18:09:27,841 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0007:{"battery": 25}'}
+2024-03-17 18:09:28,060 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0023:{"battery": 234, "software_version": "v2.0", "country": "DE", "postcode": 9204, "power_income": 376, "power_inject": 404, "power_consumption": 102}'}
+2024-03-17 18:09:28,062 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0013:{"power_income": 242}'}
+2024-03-17 18:09:28,064 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0014:{"power_inject": 17}'}
+2024-03-17 18:09:28,066 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0010:{"power_inject": 381}'}
+2024-03-17 18:09:28,875 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0006:{"power_inject": 280}'}
+2024-03-17 18:09:28,877 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0002:{"battery": 388}'}
+2024-03-17 18:09:28,881 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0011:{"power_income": 247}'}
+2024-03-17 18:09:28,925 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0006:{"power_consumption": 302}'}
+2024-03-17 18:09:29,091 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0024:{"battery": 385, "software_version": "v3.3", "country": "IT", "postcode": 7761, "power_income": 97, "power_inject": 14, "power_consumption": 46}'}
+2024-03-17 18:09:29,894 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0001:{"power_consumption": 77}'}
+2024-03-17 18:09:29,903 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0019:{"battery": 7, "power_inject": 337}'}
+2024-03-17 18:09:30,100 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0025:{"battery": 5, "software_version": "v7.2", "country": "CH", "postcode": 7464, "power_income": 309, "power_inject": 180, "power_consumption": 168}'}
+2024-03-17 18:09:30,891 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0005:{"power_income": 124}'}
+2024-03-17 18:09:30,893 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0016:{"battery": 376}'}
+2024-03-17 18:09:30,899 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0012:{"power_consumption": 414}'}
+2024-03-17 18:09:30,902 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0022:{"power_consumption": 385, "power_inject": 3}'}
+2024-03-17 18:09:30,906 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0003:{"power_income": 58, "battery": 13}'}
+2024-03-17 18:09:30,993 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0002:{"power_inject": 310}'}
+2024-03-17 18:09:31,096 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0026:{"battery": 254, "software_version": "v1.0", "country": "DE", "postcode": 7543, "power_income": 381, "power_inject": 53, "power_consumption": 362}'}
+2024-03-17 18:09:31,098 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0025:{"power_inject": 181}'}
+2024-03-17 18:09:31,099 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0024:{"power_consumption": 47}'}
+2024-03-17 18:09:31,944 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0021:{"power_consumption": 19}'}
+2024-03-17 18:09:31,948 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0027:{"battery": 102, "software_version": "v8.7", "country": "SI", "postcode": 9323, "power_income": 263, "power_inject": 361, "power_consumption": 249}'}
+2024-03-17 18:09:31,950 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0003:{"battery": 14}'}
+2024-03-17 18:09:32,027 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0002:{"power_consumption": 361}'}
+2024-03-17 18:09:32,992 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0017:{"battery": 103}'}
+2024-03-17 18:09:32,994 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0004:{"power_inject": 385}'}
+2024-03-17 18:09:32,996 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0005:{"power_consumption": 85}'}
+2024-03-17 18:09:32,997 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0024:{"power_consumption": 48}'}
+2024-03-17 18:09:33,000 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0008:{"power_consumption": 120}'}
+2024-03-17 18:09:33,001 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0028:{"battery": 91, "software_version": "v3.1", "country": "IT", "postcode": 7252, "power_income": 85, "power_inject": 358, "power_consumption": 374}'}
+2024-03-17 18:09:33,834 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0001:{"power_income": 16}'}
+2024-03-17 18:09:34,043 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0008:{"power_consumption": 121}'}
+2024-03-17 18:09:34,046 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0025:{"power_inject": 182}'}
+2024-03-17 18:09:34,048 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0026:{"power_consumption": 363, "power_inject": 54}'}
+2024-03-17 18:09:34,051 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0028:{"battery": 92}'}
+2024-03-17 18:09:34,056 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0029:{"battery": 278, "software_version": "v8.2", "country": "DE", "postcode": 7130, "power_income": 193, "power_inject": 410, "power_consumption": 27}'}
+2024-03-17 18:09:34,058 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0010:{"battery": 180}'}
+2024-03-17 18:09:34,064 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0022:{"power_income": 96, "power_consumption": 386}'}
+2024-03-17 18:09:34,068 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0018:{"power_consumption": 217}'}
+2024-03-17 18:09:34,077 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0017:{"power_income": 191}'}
+2024-03-17 18:09:34,854 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0009:{"power_consumption": 157}'}
+2024-03-17 18:09:34,888 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0019:{"power_consumption": 25}'}
+2024-03-17 18:09:34,921 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0017:{"power_income": 192}'}
+2024-03-17 18:09:34,944 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0017:{"local_time": "2024-03-17 18:09:34.925128"}'}
+2024-03-17 18:09:35,056 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0013:{"local_time": "2024-03-17 18:09:34.921364"}'}
+2024-03-17 18:09:35,058 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0007:{"local_time": "2024-03-17 18:09:34.921364"}'}
+2024-03-17 18:09:35,060 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0024:{"local_time": "2024-03-17 18:09:34.923549"}'}
+2024-03-17 18:09:35,061 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0003:{"local_time": "2024-03-17 18:09:34.927365"}'}
+2024-03-17 18:09:35,064 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0006:{"local_time": "2024-03-17 18:09:34.923124"}'}
+2024-03-17 18:09:35,066 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0023:{"battery": 236}'}
+2024-03-17 18:09:35,069 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0009:{"local_time": "2024-03-17 18:09:34.924591"}'}
+2024-03-17 18:09:35,073 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0041:{"local_time": "2024-03-17 18:09:34.925659"}'}
+2024-03-17 18:09:35,074 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0043:{"local_time": "2024-03-17 18:09:34.926250"}'}
+2024-03-17 18:09:35,076 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0005:{"local_time": "2024-03-17 18:09:34.924055"}'}
+2024-03-17 18:09:35,078 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0039:{"local_time": "2024-03-17 18:09:34.925128"}'}
+2024-03-17 18:09:35,081 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0030:{"battery": 390, "software_version": "v5.2", "country": "AT", "postcode": 8472, "power_income": 413, "power_inject": 54, "power_consumption": 202}'}
+2024-03-17 18:09:35,082 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0032:{"local_time": "2024-03-17 18:09:34.924055"}'}
+2024-03-17 18:09:35,085 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0044:{"local_time": "2024-03-17 18:09:34.922616"}'}
+2024-03-17 18:09:35,089 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0040:{"local_time": "2024-03-17 18:09:34.924591"}'}
+2024-03-17 18:09:35,090 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0004:{"local_time": "2024-03-17 18:09:34.926250"}'}
+2024-03-17 18:09:35,092 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0001:{"local_time": "2024-03-17 18:09:34.923549"}'}
+2024-03-17 18:09:35,097 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0014:{"local_time": "2024-03-17 18:09:34.926816"}'}
+2024-03-17 18:09:35,099 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0002:{"local_time": "2024-03-17 18:09:34.925659"}'}
+2024-03-17 18:09:35,105 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0029:{"local_time": "2024-03-17 18:09:34.922616"}'}
+2024-03-17 18:09:35,107 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0047:{"local_time": "2024-03-17 18:09:34.922370"}'}
+2024-03-17 18:09:35,108 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0028:{"local_time": "2024-03-17 18:09:34.928051"}'}
+2024-03-17 18:09:35,115 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0050:{"local_time": "2024-03-17 18:09:34.928130"}'}
+2024-03-17 18:09:35,890 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0020:{"power_consumption": 118}'}
+2024-03-17 18:09:35,926 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0010:{"battery": 181, "power_consumption": 387}'}
+2024-03-17 18:09:36,112 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0031:{"battery": 99, "software_version": "v4.7", "country": "IT", "postcode": 9518, "power_income": 253, "power_inject": 340, "power_consumption": 338}'}
+2024-03-17 18:09:36,939 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0005:{"power_consumption": 86, "battery": 319}'}
+2024-03-17 18:09:36,941 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0009:{"battery": 77}'}
+2024-03-17 18:09:36,943 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0002:{"power_income": 247}'}
+2024-03-17 18:09:36,944 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0017:{"power_consumption": 68}'}
+2024-03-17 18:09:36,955 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0032:{"battery": 16, "software_version": "v2.2", "country": "CH", "postcode": 7738}'}
+2024-03-17 18:09:37,018 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0032:{"power_income": 80, "power_inject": 387, "power_consumption": 278, "battery": 12}'}
+2024-03-17 18:09:38,002 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0006:{"power_income": 124}'}
+2024-03-17 18:09:38,005 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0012:{"power_income": 43}'}
+2024-03-17 18:09:38,006 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0033:{"battery": 201, "software_version": "v2.5", "country": "CH", "postcode": 7182, "power_income": 298, "power_inject": 364, "power_consumption": 30}'}
+2024-03-17 18:09:38,008 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0020:{"power_inject": 164}'}
+2024-03-17 18:09:38,010 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0025:{"power_inject": 183}'}
+2024-03-17 18:09:38,011 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0027:{"battery": 103}'}
+2024-03-17 18:09:38,013 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0009:{"power_consumption": 158}'}
+2024-03-17 18:09:38,828 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0003:{"power_income": 59}'}
+2024-03-17 18:09:39,027 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0020:{"power_income": 340}'}
+2024-03-17 18:09:39,030 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0034:{"battery": 317, "software_version": "v2.3", "country": "DE", "postcode": 9133, "power_income": 110, "power_inject": 385, "power_consumption": 324}'}
+2024-03-17 18:09:39,033 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0029:{"power_income": 194}'}
+2024-03-17 18:09:39,034 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0022:{"power_income": 97}'}
+2024-03-17 18:09:39,035 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0013:{"power_income": 243}'}
+2024-03-17 18:09:39,037 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0032:{"power_income": 81}'}
+2024-03-17 18:09:39,038 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0033:{"battery": 202}'}
+2024-03-17 18:09:39,040 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0018:{"power_income": 292}'}
+2024-03-17 18:09:39,843 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0009:{"battery": 78}'}
+2024-03-17 18:09:39,845 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0006:{"power_inject": 281}'}
+2024-03-17 18:09:39,847 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0001:{"power_consumption": 78}'}
+2024-03-17 18:09:40,050 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0006:{"power_consumption": 303}'}
+2024-03-17 18:09:40,052 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0020:{"power_consumption": 119}'}
+2024-03-17 18:09:40,054 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0022:{"battery": 241}'}
+2024-03-17 18:09:40,055 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0035:{"battery": 316, "software_version": "v4.3", "country": "DE", "postcode": 8150, "power_income": 296, "power_inject": 373, "power_consumption": 99}'}
+2024-03-17 18:09:40,057 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0015:{"battery": 384}'}
+2024-03-17 18:09:40,844 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0013:{"power_consumption": 145}'}
+2024-03-17 18:09:40,847 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0008:{"power_income": 74}'}
+2024-03-17 18:09:41,045 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0030:{"power_inject": 55}'}
+2024-03-17 18:09:41,049 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0010:{"power_income": 366}'}
+2024-03-17 18:09:41,051 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0036:{"battery": 239, "software_version": "v5.5", "country": "DE", "postcode": 8243, "power_income": 282, "power_inject": 127, "power_consumption": 10}'}
+2024-03-17 18:09:41,872 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0006:{"battery": 263}'}
+2024-03-17 18:09:41,874 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0007:{"power_consumption": 430, "battery": 26}'}
+2024-03-17 18:09:41,876 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0013:{"power_income": 244}'}
+2024-03-17 18:09:42,086 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0026:{"power_inject": 55}'}
+2024-03-17 18:09:42,087 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0037:{"battery": 339, "software_version": "v5.2", "country": "DE", "postcode": 9095, "power_income": 63, "power_inject": 391, "power_consumption": 331}'}
+2024-03-17 18:09:42,090 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0027:{"power_income": 264}'}
+2024-03-17 18:09:42,092 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0024:{"battery": 386}'}
+2024-03-17 18:09:42,096 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0023:{"power_income": 377, "power_inject": 405, "power_consumption": 103}'}
+2024-03-17 18:09:42,875 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0017:{"battery": 104}'}
+2024-03-17 18:09:42,877 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0022:{"battery": 242}'}
+2024-03-17 18:09:42,878 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0021:{"power_inject": 115}'}
+2024-03-17 18:09:42,880 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0014:{"power_income": 150}'}
+2024-03-17 18:09:42,952 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0026:{"power_income": 382}'}
+2024-03-17 18:09:42,954 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0027:{"power_inject": 362}'}
+2024-03-17 18:09:43,077 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0028:{"power_income": 86}'}
+2024-03-17 18:09:43,081 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0036:{"power_consumption": 11, "power_income": 283}'}
+2024-03-17 18:09:43,086 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0038:{"battery": 417, "software_version": "v8.2", "country": "AT", "postcode": 9547, "power_income": 197, "power_inject": 15, "power_consumption": 256}'}
+2024-03-17 18:09:43,093 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0032:{"power_income": 83}'}
+2024-03-17 18:09:43,928 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0021:{"battery": 157}'}
+2024-03-17 18:09:43,931 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0001:{"power_consumption": 79}'}
+2024-03-17 18:09:43,933 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0010:{"power_inject": 382}'}
+2024-03-17 18:09:44,126 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0039:{"battery": 140, "software_version": "v6.5", "country": "SI", "postcode": 9030, "power_income": 409, "power_inject": 405, "power_consumption": 59}'}
+2024-03-17 18:09:44,919 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0019:{"power_consumption": 26}'}
+2024-03-17 18:09:44,921 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0012:{"power_consumption": 415}'}
+2024-03-17 18:09:44,924 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0011:{"battery": 174, "power_consumption": 179}'}
+2024-03-17 18:09:44,926 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0030:{"battery": 391, "power_income": 414}'}
+2024-03-17 18:09:44,930 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0014:{"power_income": 151}'}
+2024-03-17 18:09:44,931 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0003:{"power_income": 60}'}
+2024-03-17 18:09:45,001 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0026:{"battery": 255}'}
+2024-03-17 18:09:45,127 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0034:{"power_income": 111}'}
+2024-03-17 18:09:45,130 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0031:{"power_inject": 341, "battery": 100}'}
+2024-03-17 18:09:45,131 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0040:{"battery": 316, "software_version": "v8.4", "country": "DE", "postcode": 8510, "power_income": 382, "power_inject": 356, "power_consumption": 306}'}
+2024-03-17 18:09:45,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0001:{"battery": 57}'}
+2024-03-17 18:09:45,972 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0003:{"power_inject": 186}'}
+2024-03-17 18:09:45,973 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0004:{"power_consumption": 349}'}
+2024-03-17 18:09:45,974 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0020:{"power_consumption": 120}'}
+2024-03-17 18:09:45,977 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0028:{"power_income": 87}'}
+2024-03-17 18:09:45,978 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0021:{"power_consumption": 20}'}
+2024-03-17 18:09:45,980 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0024:{"battery": 387}'}
+2024-03-17 18:09:45,983 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0023:{"battery": 237}'}
+2024-03-17 18:09:46,176 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0041:{"battery": 398, "software_version": "v4.2", "country": "AT", "postcode": 7479, "power_income": 271, "power_inject": 83, "power_consumption": 302}'}
+2024-03-17 18:09:46,178 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0038:{"battery": 418}'}
+2024-03-17 18:09:46,787 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0002:{"battery": 389}'}
+2024-03-17 18:09:46,993 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0031:{"power_consumption": 339}'}
+2024-03-17 18:09:46,996 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0003:{"power_income": 61}'}
+2024-03-17 18:09:46,998 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0030:{"power_inject": 56}'}
+2024-03-17 18:09:46,999 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0015:{"power_inject": 251}'}
+2024-03-17 18:09:47,003 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0009:{"power_income": 257}'}
+2024-03-17 18:09:47,004 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0008:{"power_inject": 336}'}
+2024-03-17 18:09:47,006 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0026:{"power_consumption": 364}'}
+2024-03-17 18:09:47,209 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0042:{"battery": 195, "software_version": "v6.8", "country": "CH", "postcode": 8919, "power_income": 232, "power_inject": 112, "power_consumption": 100}'}
+2024-03-17 18:09:47,829 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0003:{"battery": 15}'}
+2024-03-17 18:09:47,830 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0004:{"battery": 261}'}
+2024-03-17 18:09:48,027 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0035:{"power_consumption": 100}'}
+2024-03-17 18:09:48,027 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0025:{"power_consumption": 170}'}
+2024-03-17 18:09:48,038 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0019:{"power_inject": 338}'}
+2024-03-17 18:09:48,040 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0011:{"power_inject": 35}'}
+2024-03-17 18:09:48,042 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0013:{"battery": 158}'}
+2024-03-17 18:09:48,043 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0033:{"power_inject": 365}'}
+2024-03-17 18:09:48,045 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0022:{"power_inject": 4}'}
+2024-03-17 18:09:48,054 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0023:{"power_income": 378}'}
+2024-03-17 18:09:48,056 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0036:{"battery": 241}'}
+2024-03-17 18:09:48,060 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0028:{"power_income": 88}'}
+2024-03-17 18:09:48,064 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0043:{"battery": 313, "software_version": "v5.3", "country": "IT", "postcode": 9127, "power_income": 58, "power_inject": 247, "power_consumption": 155}'}
+2024-03-17 18:09:48,070 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0029:{"power_consumption": 28}'}
+2024-03-17 18:09:48,841 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0013:{"power_inject": 81}'}
+2024-03-17 18:09:48,843 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0009:{"power_inject": 32}'}
+2024-03-17 18:09:48,845 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0001:{"power_inject": 229}'}
+2024-03-17 18:09:49,048 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0038:{"power_inject": 16}'}
+2024-03-17 18:09:49,050 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0044:{"battery": 192, "software_version": "v8.3", "country": "DE", "postcode": 7769, "power_income": 365, "power_inject": 125, "power_consumption": 223}'}
+2024-03-17 18:09:49,051 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0017:{"power_consumption": 69}'}
+2024-03-17 18:09:49,053 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0041:{"battery": 399}'}
+2024-03-17 18:09:49,055 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0022:{"battery": 243}'}
+2024-03-17 18:09:49,056 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0019:{"battery": 8}'}
+2024-03-17 18:09:49,845 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0005:{"battery": 320}'}
+2024-03-17 18:09:49,847 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0001:{"battery": 58}'}
+2024-03-17 18:09:49,848 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0013:{"power_income": 245}'}
+2024-03-17 18:09:49,937 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0028:{"battery": 93}'}
+2024-03-17 18:09:50,045 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0025:{"power_income": 310}'}
+2024-03-17 18:09:50,047 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0040:{"local_time": "2024-03-17 18:09:49.991913"}'}
+2024-03-17 18:09:50,050 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0003:{"local_time": "2024-03-17 18:09:49.995462"}'}
+2024-03-17 18:09:50,052 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0002:{"local_time": "2024-03-17 18:09:49.993452"}'}
+2024-03-17 18:09:50,053 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0014:{"local_time": "2024-03-17 18:09:49.994459"}'}
+2024-03-17 18:09:50,057 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0039:{"local_time": "2024-03-17 18:09:49.993452"}'}
+2024-03-17 18:09:50,059 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0050:{"local_time": "2024-03-17 18:09:49.993452"}'}
+2024-03-17 18:09:50,061 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0047:{"local_time": "2024-03-17 18:09:49.996459"}'}
+2024-03-17 18:09:50,066 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0045:{"battery": 7, "software_version": "v5.7", "country": "AT", "postcode": 9302, "power_income": 408, "power_inject": 204, "power_consumption": 382}'}
+2024-03-17 18:09:50,069 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0017:{"local_time": "2024-03-17 18:09:49.994459"}'}
+2024-03-17 18:09:50,077 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0034:{"power_inject": 386}'}
+2024-03-17 18:09:50,083 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0009:{"local_time": "2024-03-17 18:09:49.995462"}'}
+2024-03-17 18:09:50,085 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0004:{"local_time": "2024-03-17 18:09:49.994459"}'}
+2024-03-17 18:09:50,097 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0013:{"local_time": "2024-03-17 18:09:49.992914"}'}
+2024-03-17 18:09:50,101 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0005:{"local_time": "2024-03-17 18:09:49.993347"}'}
+2024-03-17 18:09:50,105 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0001:{"local_time": "2024-03-17 18:09:50.075712"}'}
+2024-03-17 18:09:50,127 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0043:{"power_income": 59, "local_time": "2024-03-17 18:09:49.995462", "power_consumption": 156}'}
+2024-03-17 18:09:50,134 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0029:{"local_time": "2024-03-17 18:09:50.075181"}'}
+2024-03-17 18:09:50,135 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0028:{"local_time": "2024-03-17 18:09:50.076240"}'}
+2024-03-17 18:09:50,256 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0007:{"local_time": "2024-03-17 18:09:50.074061"}'}
+2024-03-17 18:09:50,259 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0041:{"local_time": "2024-03-17 18:09:50.076240"}'}
+2024-03-17 18:09:50,263 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0032:{"local_time": "2024-03-17 18:09:50.074061"}'}
+2024-03-17 18:09:50,267 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0006:{"local_time": "2024-03-17 18:09:50.075181"}'}
+2024-03-17 18:09:50,279 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0024:{"local_time": "2024-03-17 18:09:50.075712"}'}
+2024-03-17 18:09:50,283 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0044:{"local_time": "2024-03-17 18:09:50.075181"}'}
+2024-03-17 18:09:50,842 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0008:{"battery": 100}'}
+2024-03-17 18:09:50,909 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0002:{"power_inject": 312}'}
+2024-03-17 18:09:50,911 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0007:{"power_income": 8}'}
+2024-03-17 18:09:51,044 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0031:{"battery": 101, "power_inject": 342}'}
+2024-03-17 18:09:51,046 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0046:{"battery": 329, "software_version": "v4.0", "country": "DE", "postcode": 9459, "power_income": 28, "power_inject": 184, "power_consumption": 291}'}
+2024-03-17 18:09:51,115 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0034:{"battery": 318}'}
+2024-03-17 18:09:51,117 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0041:{"power_consumption": 303}'}
+2024-03-17 18:09:51,118 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0039:{"power_inject": 406}'}
+2024-03-17 18:09:51,120 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0040:{"power_inject": 357}'}
+2024-03-17 18:09:51,121 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0027:{"power_inject": 363}'}
+2024-03-17 18:09:51,123 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0028:{"power_consumption": 375}'}
+2024-03-17 18:09:51,873 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0012:{"power_inject": 205}'}
+2024-03-17 18:09:51,876 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0018:{"power_consumption": 218}'}
+2024-03-17 18:09:51,943 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0004:{"battery": 262}'}
+2024-03-17 18:09:52,076 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0019:{"battery": 10}'}
+2024-03-17 18:09:52,078 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0031:{"power_income": 254}'}
+2024-03-17 18:09:52,081 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0046:{"power_income": 29}'}
+2024-03-17 18:09:52,155 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0047:{"battery": 379, "software_version": "v3.5", "country": "AT", "postcode": 7611, "power_income": 8, "power_inject": 6, "power_consumption": 192}'}
+2024-03-17 18:09:52,157 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0032:{"battery": 13}'}
+2024-03-17 18:09:52,161 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0043:{"battery": 314}'}
+2024-03-17 18:09:52,877 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0018:{"power_income": 293}'}
+2024-03-17 18:09:52,994 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0004:{"battery": 263}'}
+2024-03-17 18:09:52,997 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0013:{"power_consumption": 146}'}
+2024-03-17 18:09:52,999 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0006:{"power_income": 125}'}
+2024-03-17 18:09:52,999 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0034:{"power_inject": 387}'}
+2024-03-17 18:09:53,002 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0007:{"power_income": 9}'}
+2024-03-17 18:09:53,055 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0034:{"power_inject": 388}'}
+2024-03-17 18:09:53,060 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0048:{"battery": 369, "software_version": "v4.0", "country": "DE", "postcode": 9516, "power_income": 169, "power_inject": 428, "power_consumption": 265}'}
+2024-03-17 18:09:53,061 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0036:{"power_consumption": 12}'}
+2024-03-17 18:09:53,066 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0033:{"power_income": 299}'}
+2024-03-17 18:09:53,067 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0030:{"power_inject": 57}'}
+2024-03-17 18:09:53,812 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0005:{"power_inject": 8, "battery": 321}'}
+2024-03-17 18:09:53,814 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0004:{"power_income": 259}'}
+2024-03-17 18:09:53,896 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0015:{"battery": 385}'}
+2024-03-17 18:09:53,898 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0010:{"power_inject": 383}'}
+2024-03-17 18:09:53,996 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0032:{"power_inject": 388}'}
+2024-03-17 18:09:53,998 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0006:{"battery": 264}'}
+2024-03-17 18:09:53,998 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0028:{"power_income": 89}'}
+2024-03-17 18:09:54,001 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0014:{"power_consumption": 333}'}
+2024-03-17 18:09:54,002 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0043:{"power_inject": 248}'}
+2024-03-17 18:09:54,096 INFO consumers.py: received: {'type': 'UPDT', 'message': '0000:0049:{"battery": 191, "software_version": "v2.5", "country": "DE", "postcode": 8282, "power_income": 210, "power_inject": 317, "power_consumption": 163}'}
+2024-03-17 18:09:54,099 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0022:{"power_inject": 5}'}
+2024-03-17 18:09:54,102 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0019:{"battery": 11}'}
+2024-03-17 18:09:54,103 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0036:{"power_inject": 128}'}
+2024-03-17 18:09:54,105 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0033:{"power_income": 300, "battery": 203}'}
+2024-03-17 18:09:54,960 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0012:{"power_income": 44}'}
+2024-03-17 18:09:54,962 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0015:{"power_income": 132}'}
+2024-03-17 18:09:54,964 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0010:{"power_consumption": 388}'}
+2024-03-17 18:09:55,021 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0009:{"battery": 79}'}
+2024-03-17 18:09:55,023 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0028:{"power_consumption": 376}'}
+2024-03-17 18:09:55,227 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0050:{"battery": 93, "software_version": "v2.3", "country": "AT", "postcode": 8699, "power_income": 272, "power_inject": 19, "power_consumption": 313}'}
+2024-03-17 18:09:55,826 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0001:{"power_consumption": 80}'}
+2024-03-17 18:09:55,827 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0004:{"power_income": 260}'}
+2024-03-17 18:09:55,829 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0002:{"power_income": 248}'}
+2024-03-17 18:09:55,883 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0002:{"power_consumption": 362}'}
+2024-03-17 18:09:56,022 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0034:{"battery": 319}'}
+2024-03-17 18:09:56,024 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0013:{"power_income": 246}'}
+2024-03-17 18:09:56,026 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0006:{"power_income": 126}'}
+2024-03-17 18:09:56,027 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0044:{"battery": 193}'}
+2024-03-17 18:09:56,029 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0009:{"power_inject": 33}'}
+2024-03-17 18:09:56,032 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0016:{"battery": 377}'}
+2024-03-17 18:09:56,174 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0046:{"power_consumption": 292}'}
+2024-03-17 18:09:56,184 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0042:{"battery": 196}'}
+2024-03-17 18:09:56,186 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0038:{"battery": 419}'}
+2024-03-17 18:09:56,825 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0003:{"power_consumption": 95}'}
+2024-03-17 18:09:56,827 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0001:{"power_inject": 230}'}
+2024-03-17 18:09:56,967 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0019:{"power_income": 241}'}
+2024-03-17 18:09:56,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0008:{"power_consumption": 122}'}
+2024-03-17 18:09:56,972 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0020:{"battery": 397, "power_consumption": 121}'}
+2024-03-17 18:09:56,974 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0021:{"power_consumption": 21}'}
+2024-03-17 18:09:56,976 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0015:{"power_consumption": 241}'}
+2024-03-17 18:09:56,981 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0030:{"power_income": 416}'}
+2024-03-17 18:09:57,049 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0017:{"power_income": 193, "power_inject": 268}'}
+2024-03-17 18:09:57,052 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0027:{"battery": 104}'}
+2024-03-17 18:09:57,053 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0043:{"power_income": 60}'}
+2024-03-17 18:09:57,157 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0044:{"power_inject": 126, "power_income": 366}'}
+2024-03-17 18:09:57,159 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0036:{"power_income": 284}'}
+2024-03-17 18:09:57,258 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0050:{"battery": 94}'}
+2024-03-17 18:09:57,862 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0007:{"battery": 27}'}
+2024-03-17 18:09:57,994 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0006:{"power_income": 127}'}
+2024-03-17 18:09:57,999 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0010:{"battery": 182}'}
+2024-03-17 18:09:58,002 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0026:{"battery": 256}'}
+2024-03-17 18:09:58,072 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0025:{"power_consumption": 171}'}
+2024-03-17 18:09:58,075 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0047:{"battery": 380}'}
+2024-03-17 18:09:58,078 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0040:{"power_consumption": 307}'}
+2024-03-17 18:09:58,202 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0035:{"battery": 317}'}
+2024-03-17 18:09:58,860 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0005:{"power_income": 125}'}
+2024-03-17 18:09:58,864 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0001:{"power_income": 17}'}
+2024-03-17 18:09:58,868 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0007:{"power_inject": 152}'}
+2024-03-17 18:09:59,010 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0022:{"battery": 244}'}
+2024-03-17 18:09:59,013 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0008:{"power_consumption": 123}'}
+2024-03-17 18:09:59,014 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0016:{"power_income": 384}'}
+2024-03-17 18:09:59,017 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0038:{"power_consumption": 257}'}
+2024-03-17 18:09:59,071 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0045:{"power_inject": 206}'}
+2024-03-17 18:09:59,229 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0049:{"power_consumption": 164, "power_inject": 318}'}
+2024-03-17 18:09:59,829 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0002:{"power_consumption": 363}'}
+2024-03-17 18:09:59,833 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0008:{"power_consumption": 124}'}
+2024-03-17 18:09:59,944 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0029:{"power_inject": 411}'}
+2024-03-17 18:09:59,947 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0025:{"power_income": 311}'}
+2024-03-17 18:10:00,029 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0034:{"power_consumption": 325}'}
+2024-03-17 18:10:00,037 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0030:{"battery": 392}'}
+2024-03-17 18:10:00,040 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0049:{"power_consumption": 165, "power_income": 211}'}
+2024-03-17 18:10:00,145 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0045:{"power_income": 409}'}
+2024-03-17 18:10:00,148 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0043:{"power_inject": 249}'}
+2024-03-17 18:10:00,150 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0047:{"battery": 381}'}
+2024-03-17 18:10:00,993 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0028:{"power_inject": 359}'}
+2024-03-17 18:10:00,995 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0029:{"power_consumption": 29}'}
+2024-03-17 18:10:00,996 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0004:{"power_income": 261}'}
+2024-03-17 18:10:00,998 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0001:{"battery": 59}'}
+2024-03-17 18:10:01,000 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0024:{"battery": 388}'}
+2024-03-17 18:10:01,028 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0033:{"power_income": 301}'}
+2024-03-17 18:10:01,034 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0006:{"battery": 265}'}
+2024-03-17 18:10:01,035 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0035:{"power_income": 297}'}
+2024-03-17 18:10:01,038 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0037:{"power_income": 64}'}
+2024-03-17 18:10:01,043 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0046:{"power_inject": 185, "power_income": 30}'}
+2024-03-17 18:10:01,045 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0038:{"power_inject": 17}'}
+2024-03-17 18:10:01,048 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0026:{"power_income": 383, "power_inject": 56}'}
+2024-03-17 18:10:01,210 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0045:{"power_consumption": 384}'}
+2024-03-17 18:10:01,213 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0047:{"power_inject": 7}'}
+2024-03-17 18:10:01,217 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0049:{"power_consumption": 166}'}
+2024-03-17 18:10:02,026 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0015:{"power_income": 133}'}
+2024-03-17 18:10:02,028 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0019:{"power_consumption": 27}'}
+2024-03-17 18:10:02,032 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0024:{"power_consumption": 49}'}
+2024-03-17 18:10:02,035 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0014:{"power_income": 152}'}
+2024-03-17 18:10:02,040 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0042:{"battery": 197, "power_inject": 113}'}
+2024-03-17 18:10:02,044 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0017:{"power_income": 194}'}
+2024-03-17 18:10:02,860 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0008:{"power_consumption": 125}'}
+2024-03-17 18:10:02,861 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0009:{"power_income": 258}'}
+2024-03-17 18:10:02,863 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0005:{"power_consumption": 87}'}
+2024-03-17 18:10:03,045 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0025:{"power_inject": 184}'}
+2024-03-17 18:10:03,047 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0010:{"power_income": 367}'}
+2024-03-17 18:10:03,049 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0041:{"power_consumption": 304}'}
+2024-03-17 18:10:03,050 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0050:{"battery": 95}'}
+2024-03-17 18:10:03,051 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0022:{"power_income": 99, "power_consumption": 387}'}
+2024-03-17 18:10:03,861 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0001:{"power_inject": 231}'}
+2024-03-17 18:10:04,058 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0037:{"power_inject": 392}'}
+2024-03-17 18:10:04,060 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0031:{"power_consumption": 340}'}
+2024-03-17 18:10:04,062 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0019:{"power_inject": 339}'}
+2024-03-17 18:10:04,063 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0016:{"power_consumption": 35}'}
+2024-03-17 18:10:04,066 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0027:{"power_income": 265}'}
+2024-03-17 18:10:04,067 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0008:{"battery": 101}'}
+2024-03-17 18:10:04,869 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0011:{"power_inject": 36}'}
+2024-03-17 18:10:04,872 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0002:{"battery": 390}'}
+2024-03-17 18:10:04,874 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0023:{"power_inject": 406}'}
+2024-03-17 18:10:04,875 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0012:{"power_inject": 206}'}
+2024-03-17 18:10:04,877 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0007:{"power_inject": 153}'}
+2024-03-17 18:10:04,879 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0021:{"power_income": 345}'}
+2024-03-17 18:10:05,078 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0042:{"power_inject": 114}'}
+2024-03-17 18:10:05,080 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0045:{"battery": 8}'}
+2024-03-17 18:10:05,082 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0040:{"power_income": 384}'}
+2024-03-17 18:10:05,083 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0039:{"power_income": 410}'}
+2024-03-17 18:10:05,084 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0035:{"power_consumption": 101}'}
+2024-03-17 18:10:05,155 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0050:{"local_time": "2024-03-17 18:10:05.110841"}'}
+2024-03-17 18:10:05,278 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0001:{"local_time": "2024-03-17 18:10:05.194705"}'}
+2024-03-17 18:10:05,280 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0047:{"local_time": "2024-03-17 18:10:05.193696"}'}
+2024-03-17 18:10:05,282 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0032:{"local_time": "2024-03-17 18:10:05.196705"}'}
+2024-03-17 18:10:05,283 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0024:{"local_time": "2024-03-17 18:10:05.193696"}'}
+2024-03-17 18:10:05,285 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0044:{"local_time": "2024-03-17 18:10:05.197707"}'}
+2024-03-17 18:10:05,287 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0017:{"local_time": "2024-03-17 18:10:05.197707"}'}
+2024-03-17 18:10:05,290 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0013:{"local_time": "2024-03-17 18:10:05.110841"}'}
+2024-03-17 18:10:05,291 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0005:{"local_time": "2024-03-17 18:10:05.194705"}'}
+2024-03-17 18:10:05,293 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0029:{"local_time": "2024-03-17 18:10:05.197707"}'}
+2024-03-17 18:10:05,296 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0043:{"local_time": "2024-03-17 18:10:05.195703"}'}
+2024-03-17 18:10:05,297 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0003:{"local_time": "2024-03-17 18:10:05.108752"}'}
+2024-03-17 18:10:05,300 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0014:{"local_time": "2024-03-17 18:10:05.109800"}'}
+2024-03-17 18:10:05,304 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0006:{"local_time": "2024-03-17 18:10:05.196705"}'}
+2024-03-17 18:10:05,305 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0009:{"local_time": "2024-03-17 18:10:05.195703"}'}
+2024-03-17 18:10:05,306 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0004:{"local_time": "2024-03-17 18:10:05.110149"}'}
+2024-03-17 18:10:05,307 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0002:{"local_time": "2024-03-17 18:10:05.109261"}'}
+2024-03-17 18:10:05,308 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0028:{"local_time": "2024-03-17 18:10:05.194705"}'}
+2024-03-17 18:10:05,314 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0007:{"local_time": "2024-03-17 18:10:05.196705"}'}
+2024-03-17 18:10:05,314 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0041:{"local_time": "2024-03-17 18:10:05.195703"}'}
+2024-03-17 18:10:05,317 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0039:{"local_time": "2024-03-17 18:10:05.196705"}'}
+2024-03-17 18:10:05,317 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0040:{"local_time": "2024-03-17 18:10:05.195703"}'}
+2024-03-17 18:10:05,894 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0008:{"power_income": 75}'}
+2024-03-17 18:10:05,896 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0012:{"battery": 406}'}
+2024-03-17 18:10:05,922 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0002:{"power_inject": 313}'}
+2024-03-17 18:10:05,924 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0004:{"power_income": 262}'}
+2024-03-17 18:10:05,926 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0003:{"power_income": 62}'}
+2024-03-17 18:10:05,966 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0022:{"power_inject": 6}'}
+2024-03-17 18:10:06,095 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0047:{"battery": 383}'}
+2024-03-17 18:10:06,097 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0036:{"battery": 242}'}
+2024-03-17 18:10:06,099 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0032:{"power_consumption": 279}'}
+2024-03-17 18:10:06,941 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0005:{"power_consumption": 88}'}
+2024-03-17 18:10:06,943 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0013:{"power_inject": 82}'}
+2024-03-17 18:10:06,945 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0007:{"power_income": 10}'}
+2024-03-17 18:10:06,947 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0011:{"battery": 175, "power_consumption": 180}'}
+2024-03-17 18:10:06,948 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0006:{"battery": 266}'}
+2024-03-17 18:10:07,129 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0044:{"battery": 194}'}
+2024-03-17 18:10:07,132 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0037:{"battery": 340, "power_consumption": 332}'}
+2024-03-17 18:10:07,132 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0031:{"power_consumption": 341}'}
+2024-03-17 18:10:07,135 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0050:{"battery": 96}'}
+2024-03-17 18:10:07,137 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0046:{"power_inject": 186}'}
+2024-03-17 18:10:07,140 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0026:{"power_consumption": 365}'}
+2024-03-17 18:10:07,957 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0029:{"battery": 279}'}
+2024-03-17 18:10:07,960 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0008:{"power_inject": 337}'}
+2024-03-17 18:10:07,962 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0023:{"battery": 238}'}
+2024-03-17 18:10:07,963 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0022:{"power_consumption": 388}'}
+2024-03-17 18:10:07,964 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0019:{"power_consumption": 28}'}
+2024-03-17 18:10:07,967 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0020:{"battery": 398}'}
+2024-03-17 18:10:07,968 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0014:{"power_inject": 18}'}
+2024-03-17 18:10:07,972 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0007:{"power_consumption": 429}'}
+2024-03-17 18:10:07,974 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0021:{"power_consumption": 22}'}
+2024-03-17 18:10:07,976 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0027:{"power_income": 266}'}
+2024-03-17 18:10:07,977 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0002:{"power_inject": 314}'}
+2024-03-17 18:10:07,980 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0018:{"battery": 170}'}
+2024-03-17 18:10:08,155 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0050:{"battery": 97}'}
+2024-03-17 18:10:08,157 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0037:{"power_inject": 393}'}
+2024-03-17 18:10:08,169 INFO consumers.py: received: {'type': 'UPDT', 'message': '0001:0048:{"power_inject": 429}'}
+2024-03-17 18:10:08,186 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0046:{"power_consumption": 293}'}
+2024-03-17 18:10:08,194 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0032:{"battery": 14}'}
+2024-03-17 18:10:08,810 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0002:{"battery": 391}'}
+2024-03-17 18:10:08,964 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0031:{"power_income": 255, "battery": 102}'}
+2024-03-17 18:10:08,966 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0016:{"power_income": 385}'}
+2024-03-17 18:10:08,997 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0032:{"power_consumption": 280}'}
+2024-03-17 18:10:09,160 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0036:{"power_inject": 129}'}
+2024-03-17 18:10:09,164 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0035:{"power_inject": 374}'}
+2024-03-17 18:10:09,166 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0038:{"power_consumption": 258}'}
+2024-03-17 18:10:09,793 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0004:{"power_inject": 386}'}
+2024-03-17 18:10:10,011 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0011:{"power_inject": 37}'}
+2024-03-17 18:10:10,013 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0014:{"battery": 156}'}
+2024-03-17 18:10:10,014 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0027:{"battery": 105}'}
+2024-03-17 18:10:10,212 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0050:{"power_consumption": 314}'}
+2024-03-17 18:10:10,845 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0001:{"power_inject": 232}'}
+2024-03-17 18:10:10,847 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0013:{"power_income": 247}'}
+2024-03-17 18:10:11,027 INFO consumers.py: received: {'type': 'UPDT', 'message': '0002:0048:{"power_income": 170}'}
+2024-03-17 18:10:11,034 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0032:{"power_inject": 389}'}
+2024-03-17 18:10:11,035 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0034:{"battery": 320, "power_inject": 389}'}
+2024-03-17 18:10:11,036 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0042:{"power_inject": 115}'}
+2024-03-17 18:10:11,040 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0024:{"power_income": 98}'}
+2024-03-17 18:10:11,041 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0044:{"battery": 195, "power_consumption": 224}'}
+2024-03-17 18:10:11,043 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0050:{"power_income": 273}'}
+2024-03-17 18:10:11,049 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0035:{"power_consumption": 102}'}
+2024-03-17 18:10:11,052 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0016:{"power_income": 386}'}
+2024-03-17 18:10:11,052 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0030:{"power_consumption": 203}'}
+2024-03-17 18:10:11,844 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0012:{"power_consumption": 416}'}
+2024-03-17 18:10:12,034 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0050:{"power_income": 274}'}
+2024-03-17 18:10:12,036 INFO consumers.py: received: {'type': 'UPDT', 'message': '0003:0048:{"power_income": 171}'}
+2024-03-17 18:10:12,038 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0007:{"power_income": 11}'}
+2024-03-17 18:10:12,040 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0031:{"power_consumption": 342}'}
+2024-03-17 18:10:12,042 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0041:{"power_income": 272}'}
+2024-03-17 18:10:12,044 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0021:{"power_inject": 116}'}
+2024-03-17 18:10:12,049 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0008:{"battery": 102}'}
+2024-03-17 18:10:12,910 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0012:{"power_income": 45}'}
+2024-03-17 18:10:12,912 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0004:{"battery": 265}'}
+2024-03-17 18:10:12,914 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0021:{"power_inject": 118}'}
+2024-03-17 18:10:12,916 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0013:{"battery": 159}'}
+2024-03-17 18:10:12,918 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0019:{"power_consumption": 29}'}
+2024-03-17 18:10:13,111 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0047:{"power_income": 9}'}
+2024-03-17 18:10:13,113 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0039:{"power_inject": 407, "battery": 141}'}
+2024-03-17 18:10:13,115 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0050:{"battery": 98}'}
+2024-03-17 18:10:13,117 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0026:{"power_consumption": 366}'}
+2024-03-17 18:10:13,119 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0025:{"battery": 6, "power_inject": 185}'}
+2024-03-17 18:10:13,120 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0044:{"power_income": 367}'}
+2024-03-17 18:10:13,121 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0045:{"power_income": 410}'}
+2024-03-17 18:10:13,960 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0003:{"power_inject": 187}'}
+2024-03-17 18:10:13,962 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0015:{"power_consumption": 242}'}
+2024-03-17 18:10:13,964 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0006:{"battery": 267}'}
+2024-03-17 18:10:13,965 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0021:{"battery": 158}'}
+2024-03-17 18:10:13,968 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0002:{"battery": 392}'}
+2024-03-17 18:10:14,161 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0042:{"power_income": 233}'}
+2024-03-17 18:10:14,164 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0045:{"power_inject": 207}'}
+2024-03-17 18:10:14,165 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0038:{"power_inject": 18}'}
+2024-03-17 18:10:14,167 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0032:{"power_income": 84}'}
+2024-03-17 18:10:15,011 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0006:{"power_consumption": 304}'}
+2024-03-17 18:10:15,012 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0015:{"power_income": 134}'}
+2024-03-17 18:10:15,014 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0008:{"battery": 103}'}
+2024-03-17 18:10:15,017 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0009:{"power_income": 259}'}
+2024-03-17 18:10:15,018 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0032:{"power_inject": 390, "battery": 15}'}
+2024-03-17 18:10:15,019 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0012:{"battery": 407}'}
+2024-03-17 18:10:15,021 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0024:{"power_income": 99, "power_inject": 15}'}
+2024-03-17 18:10:15,228 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0039:{"power_consumption": 60}'}
+2024-03-17 18:10:15,232 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0047:{"power_income": 10, "power_inject": 8}'}
+2024-03-17 18:10:15,856 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0003:{"power_income": 63}'}
+2024-03-17 18:10:15,858 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0013:{"power_consumption": 147}'}
+2024-03-17 18:10:15,860 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0012:{"power_inject": 207}'}
+2024-03-17 18:10:15,861 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0002:{"power_consumption": 364}'}
+2024-03-17 18:10:16,061 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0040:{"battery": 317}'}
+2024-03-17 18:10:16,063 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0010:{"battery": 183}'}
+2024-03-17 18:10:16,063 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0046:{"power_income": 31}'}
+2024-03-17 18:10:16,066 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0045:{"power_inject": 208}'}
+2024-03-17 18:10:16,067 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0044:{"power_consumption": 225}'}
+2024-03-17 18:10:16,068 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0022:{"power_consumption": 389}'}
+2024-03-17 18:10:16,070 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0028:{"battery": 94}'}
+2024-03-17 18:10:16,073 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0033:{"battery": 204}'}
+2024-03-17 18:10:16,074 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0020:{"battery": 399}'}
+2024-03-17 18:10:16,076 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0023:{"power_consumption": 104, "power_income": 379}'}
+2024-03-17 18:10:16,845 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0012:{"power_income": 46}'}
+2024-03-17 18:10:16,847 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0003:{"power_income": 64}'}
+2024-03-17 18:10:16,849 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0008:{"power_consumption": 126, "power_inject": 338}'}
+2024-03-17 18:10:17,045 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0038:{"power_income": 198}'}
+2024-03-17 18:10:17,047 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0043:{"power_income": 61}'}
+2024-03-17 18:10:17,047 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0018:{"power_inject": 411, "power_income": 294}'}
+2024-03-17 18:10:17,110 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0020:{"power_consumption": 122}'}
+2024-03-17 18:10:17,112 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0040:{"power_income": 385}'}
+2024-03-17 18:10:17,113 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0033:{"battery": 205}'}
+2024-03-17 18:10:17,843 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0011:{"power_inject": 38}'}
+2024-03-17 18:10:17,846 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0002:{"power_income": 249}'}
+2024-03-17 18:10:17,944 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0010:{"power_inject": 385}'}
+2024-03-17 18:10:18,044 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0017:{"battery": 105}'}
+2024-03-17 18:10:18,048 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0036:{"power_inject": 130, "battery": 243}'}
+2024-03-17 18:10:18,049 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0021:{"battery": 159}'}
+2024-03-17 18:10:18,860 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0009:{"power_inject": 34}'}
+2024-03-17 18:10:18,862 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0011:{"power_income": 248}'}
+2024-03-17 18:10:18,864 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0004:{"power_consumption": 350}'}
+2024-03-17 18:10:18,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0033:{"power_income": 302}'}
+2024-03-17 18:10:18,971 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0020:{"power_inject": 165}'}
+2024-03-17 18:10:19,074 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0049:{"power_inject": 319}'}
+2024-03-17 18:10:19,078 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0039:{"power_income": 411}'}
+2024-03-17 18:10:19,082 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0027:{"power_inject": 364}'}
+2024-03-17 18:10:19,084 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0006:{"power_consumption": 305}'}
+2024-03-17 18:10:19,202 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0046:{"power_consumption": 294}'}
+2024-03-17 18:10:19,911 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0005:{"power_inject": 9}'}
+2024-03-17 18:10:19,914 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0001:{"power_consumption": 81}'}
+2024-03-17 18:10:19,917 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0018:{"power_consumption": 219}'}
+2024-03-17 18:10:19,919 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0014:{"battery": 157}'}
+2024-03-17 18:10:19,923 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0002:{"power_income": 250}'}
+2024-03-17 18:10:19,927 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0013:{"battery": 160}'}
+2024-03-17 18:10:20,028 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0044:{"power_inject": 127}'}
+2024-03-17 18:10:20,127 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0029:{"power_consumption": 30}'}
+2024-03-17 18:10:20,335 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0014:{"local_time": "2024-03-17 18:10:20.212737"}'}
+2024-03-17 18:10:20,337 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0002:{"local_time": "2024-03-17 18:10:20.213747"}'}
+2024-03-17 18:10:20,339 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0001:{"local_time": "2024-03-17 18:10:20.289547"}'}
+2024-03-17 18:10:20,341 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0009:{"local_time": "2024-03-17 18:10:20.288540"}'}
+2024-03-17 18:10:20,343 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0017:{"local_time": "2024-03-17 18:10:20.289547"}'}
+2024-03-17 18:10:20,347 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0043:{"local_time": "2024-03-17 18:10:20.290563"}'}
+2024-03-17 18:10:20,349 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0003:{"local_time": "2024-03-17 18:10:20.212737"}'}
+2024-03-17 18:10:20,353 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0006:{"local_time": "2024-03-17 18:10:20.290563"}'}
+2024-03-17 18:10:20,356 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0050:{"local_time": "2024-03-17 18:10:20.210711"}'}
+2024-03-17 18:10:20,359 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0041:{"local_time": "2024-03-17 18:10:20.290563"}'}
+2024-03-17 18:10:20,362 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0032:{"local_time": "2024-03-17 18:10:20.291573"}'}
+2024-03-17 18:10:20,366 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0007:{"local_time": "2024-03-17 18:10:20.289547"}'}
+2024-03-17 18:10:20,367 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0004:{"local_time": "2024-03-17 18:10:20.211721"}'}
+2024-03-17 18:10:20,373 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0039:{"local_time": "2024-03-17 18:10:20.290563"}'}
+2024-03-17 18:10:20,380 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0013:{"local_time": "2024-03-17 18:10:20.208580"}'}
+2024-03-17 18:10:20,445 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0044:{"local_time": "2024-03-17 18:10:20.289547"}'}
+2024-03-17 18:10:20,447 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0040:{"local_time": "2024-03-17 18:10:20.359714"}'}
+2024-03-17 18:10:20,451 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0028:{"local_time": "2024-03-17 18:10:20.290563"}'}
+2024-03-17 18:10:20,560 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0047:{"local_time": "2024-03-17 18:10:20.359714"}'}
+2024-03-17 18:10:20,569 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0024:{"local_time": "2024-03-17 18:10:20.361309"}'}
+2024-03-17 18:10:20,569 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0029:{"local_time": "2024-03-17 18:10:20.358700"}'}
+2024-03-17 18:10:20,576 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0005:{"local_time": "2024-03-17 18:10:20.360805"}'}
+2024-03-17 18:10:20,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0005:{"battery": 322}'}
+2024-03-17 18:10:20,972 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0008:{"power_consumption": 127, "power_inject": 339}'}
+2024-03-17 18:10:20,978 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0002:{"power_inject": 315}'}
+2024-03-17 18:10:20,981 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0031:{"power_inject": 343}'}
+2024-03-17 18:10:20,991 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0009:{"power_consumption": 159}'}
+2024-03-17 18:10:21,066 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0044:{"power_income": 368}'}
+2024-03-17 18:10:21,070 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0010:{"power_consumption": 389}'}
+2024-03-17 18:10:21,177 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0035:{"battery": 318}'}
+2024-03-17 18:10:21,180 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0034:{"power_inject": 390}'}
+2024-03-17 18:10:21,183 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0047:{"power_consumption": 193}'}
+2024-03-17 18:10:21,870 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0020:{"power_income": 341}'}
+2024-03-17 18:10:21,895 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0020:{"power_income": 342}'}
+2024-03-17 18:10:22,008 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0019:{"power_income": 242}'}
+2024-03-17 18:10:22,012 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0026:{"power_income": 384}'}
+2024-03-17 18:10:22,014 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0021:{"power_inject": 119}'}
+2024-03-17 18:10:22,016 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0003:{"battery": 16}'}
+2024-03-17 18:10:22,018 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0029:{"power_inject": 412}'}
+2024-03-17 18:10:22,020 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0005:{"power_consumption": 89}'}
+2024-03-17 18:10:22,022 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0008:{"power_income": 76}'}
+2024-03-17 18:10:22,025 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0009:{"battery": 80}'}
+2024-03-17 18:10:22,093 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0045:{"power_consumption": 385}'}
+2024-03-17 18:10:22,229 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0039:{"power_consumption": 61}'}
+2024-03-17 18:10:22,231 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0037:{"power_income": 65}'}
+2024-03-17 18:10:23,040 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0032:{"power_income": 85}'}
+2024-03-17 18:10:23,042 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0036:{"power_consumption": 13}'}
+2024-03-17 18:10:23,044 INFO consumers.py: received: {'type': 'UPDT', 'message': '0004:0048:{"battery": 370}'}
+2024-03-17 18:10:23,046 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0029:{"power_income": 195}'}
+2024-03-17 18:10:23,049 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0016:{"power_inject": 103}'}
+2024-03-17 18:10:23,051 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0027:{"power_consumption": 250}'}
+2024-03-17 18:10:23,055 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0035:{"power_income": 298}'}
+2024-03-17 18:10:23,059 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0014:{"power_consumption": 334}'}
+2024-03-17 18:10:23,844 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0007:{"battery": 28}'}
+2024-03-17 18:10:23,847 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0003:{"power_consumption": 96}'}
+2024-03-17 18:10:23,848 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0001:{"battery": 60}'}
+2024-03-17 18:10:23,849 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0006:{"power_inject": 282}'}
+2024-03-17 18:10:24,040 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0024:{"battery": 389}'}
+2024-03-17 18:10:24,042 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0050:{"power_inject": 20}'}
+2024-03-17 18:10:24,044 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0041:{"power_consumption": 305}'}
+2024-03-17 18:10:24,045 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0026:{"power_inject": 57}'}
+2024-03-17 18:10:24,047 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0043:{"power_consumption": 157}'}
+2024-03-17 18:10:24,050 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0031:{"battery": 103}'}
+2024-03-17 18:10:24,051 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0008:{"power_inject": 341}'}
+2024-03-17 18:10:24,053 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0025:{"power_consumption": 172}'}
+2024-03-17 18:10:24,135 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0040:{"power_consumption": 308, "power_inject": 358}'}
+2024-03-17 18:10:24,875 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0012:{"power_inject": 209}'}
+2024-03-17 18:10:24,877 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0004:{"power_consumption": 351}'}
+2024-03-17 18:10:24,879 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0008:{"power_consumption": 128}'}
+2024-03-17 18:10:24,880 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0014:{"power_income": 153}'}
+2024-03-17 18:10:24,881 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0006:{"battery": 268}'}
+2024-03-17 18:10:24,944 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0022:{"power_income": 100}'}
+2024-03-17 18:10:25,093 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0047:{"power_income": 11}'}
+2024-03-17 18:10:25,144 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0045:{"power_income": 412, "power_inject": 209}'}
+2024-03-17 18:10:25,881 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0015:{"power_inject": 252}'}
+2024-03-17 18:10:26,093 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0025:{"power_inject": 186}'}
+2024-03-17 18:10:26,096 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0041:{"battery": 400}'}
+2024-03-17 18:10:26,908 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0016:{"power_inject": 105}'}
+2024-03-17 18:10:26,965 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0028:{"power_inject": 360}'}
+2024-03-17 18:10:26,967 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0033:{"power_consumption": 31}'}
+2024-03-17 18:10:27,089 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0042:{"battery": 198}'}
+2024-03-17 18:10:27,089 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0027:{"battery": 106}'}
+2024-03-17 18:10:27,166 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0046:{"power_consumption": 295, "power_income": 32}'}
+2024-03-17 18:10:27,169 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0045:{"battery": 9}'}
+2024-03-17 18:10:27,911 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0026:{"battery": 257}'}
+2024-03-17 18:10:27,911 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0002:{"power_inject": 316}'}
+2024-03-17 18:10:27,916 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0014:{"power_inject": 19}'}
+2024-03-17 18:10:27,921 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0011:{"battery": 176}'}
+2024-03-17 18:10:27,932 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0017:{"power_inject": 269}'}
+2024-03-17 18:10:27,937 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0019:{"power_consumption": 30}'}
+2024-03-17 18:10:27,939 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0013:{"power_consumption": 148}'}
+2024-03-17 18:10:27,941 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0009:{"power_inject": 35}'}
+2024-03-17 18:10:27,981 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0020:{"battery": 400}'}
+2024-03-17 18:10:28,107 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0029:{"power_inject": 413}'}
+2024-03-17 18:10:28,111 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0050:{"battery": 99}'}
+2024-03-17 18:10:28,112 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0025:{"battery": 7}'}
+2024-03-17 18:10:28,151 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0027:{"power_inject": 365}'}
+2024-03-17 18:10:28,156 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0031:{"battery": 104}'}
+2024-03-17 18:10:28,195 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0033:{"battery": 206}'}
+2024-03-17 18:10:28,199 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0044:{"battery": 196}'}
+2024-03-17 18:10:28,966 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0015:{"power_consumption": 243}'}
+2024-03-17 18:10:28,967 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0026:{"power_consumption": 367}'}
+2024-03-17 18:10:28,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0019:{"power_consumption": 31}'}
+2024-03-17 18:10:28,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0004:{"power_inject": 387}'}
+2024-03-17 18:10:29,168 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0042:{"power_income": 234}'}
+2024-03-17 18:10:29,170 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0039:{"battery": 142}'}
+2024-03-17 18:10:29,172 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0048:{"power_inject": 430}'}
+2024-03-17 18:10:29,173 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0050:{"power_income": 275}'}
+2024-03-17 18:10:29,978 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0021:{"power_inject": 120}'}
+2024-03-17 18:10:29,981 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0019:{"power_income": 244, "battery": 12}'}
+2024-03-17 18:10:29,982 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0011:{"power_income": 249}'}
+2024-03-17 18:10:29,984 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0014:{"power_inject": 20}'}
+2024-03-17 18:10:29,986 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0018:{"power_inject": 412}'}
+2024-03-17 18:10:29,990 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0003:{"power_inject": 188}'}
+2024-03-17 18:10:29,992 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0006:{"power_inject": 283}'}
+2024-03-17 18:10:30,026 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0022:{"power_consumption": 390}'}
+2024-03-17 18:10:30,195 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0048:{"power_consumption": 266}'}
+2024-03-17 18:10:30,198 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0042:{"power_consumption": 101}'}
+2024-03-17 18:10:30,199 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0035:{"power_income": 299}'}
+2024-03-17 18:10:30,201 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0038:{"power_consumption": 259}'}
+2024-03-17 18:10:31,027 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0039:{"battery": 143}'}
+2024-03-17 18:10:31,029 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0031:{"power_consumption": 343}'}
+2024-03-17 18:10:31,031 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0033:{"power_inject": 366}'}
+2024-03-17 18:10:31,032 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0038:{"battery": 420}'}
+2024-03-17 18:10:31,033 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0030:{"power_consumption": 204}'}
+2024-03-17 18:10:31,035 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0018:{"battery": 171}'}
+2024-03-17 18:10:31,851 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0012:{"power_consumption": 417}'}
+2024-03-17 18:10:31,853 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0006:{"power_inject": 284}'}
+2024-03-17 18:10:32,039 INFO consumers.py: received: {'type': 'UPDT', 'message': '0005:0049:{"power_income": 212}'}
+2024-03-17 18:10:32,043 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0033:{"battery": 207}'}
+2024-03-17 18:10:32,045 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0027:{"power_income": 267}'}
+2024-03-17 18:10:32,894 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0001:{"power_inject": 233}'}
+2024-03-17 18:10:32,895 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0014:{"battery": 158}'}
+2024-03-17 18:10:33,093 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0043:{"power_income": 62}'}
+2024-03-17 18:10:33,095 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0037:{"power_consumption": 333}'}
+2024-03-17 18:10:33,097 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0020:{"power_consumption": 123}'}
+2024-03-17 18:10:33,099 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0030:{"power_income": 417}'}
+2024-03-17 18:10:33,100 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0038:{"power_income": 199}'}
+2024-03-17 18:10:33,103 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0046:{"power_consumption": 296}'}
+2024-03-17 18:10:33,104 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0035:{"power_consumption": 103}'}
+2024-03-17 18:10:33,943 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0024:{"power_consumption": 50}'}
+2024-03-17 18:10:33,945 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0030:{"power_consumption": 205}'}
+2024-03-17 18:10:33,946 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0017:{"power_income": 195}'}
+2024-03-17 18:10:34,144 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0036:{"battery": 244}'}
+2024-03-17 18:10:34,146 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0046:{"power_inject": 187}'}
+2024-03-17 18:10:34,147 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0031:{"power_income": 256, "battery": 105}'}
+2024-03-17 18:10:34,148 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0034:{"power_income": 112}'}
+2024-03-17 18:10:34,149 INFO consumers.py: received: {'type': 'UPDT', 'message': '0006:0049:{"power_consumption": 167}'}
+2024-03-17 18:10:34,150 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0044:{"power_inject": 128}'}
+2024-03-17 18:10:34,151 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0042:{"battery": 199}'}
+2024-03-17 18:10:34,978 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0011:{"power_consumption": 181}'}
+2024-03-17 18:10:34,981 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0010:{"power_inject": 386}'}
+2024-03-17 18:10:34,983 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0007:{"power_consumption": 428}'}
+2024-03-17 18:10:34,987 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0025:{"battery": 8}'}
+2024-03-17 18:10:34,990 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0016:{"power_inject": 106, "battery": 378}'}
+2024-03-17 18:10:34,992 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0015:{"battery": 386}'}
+2024-03-17 18:10:35,190 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0041:{"power_consumption": 306}'}
+2024-03-17 18:10:35,192 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0048:{"power_inject": 429}'}
+2024-03-17 18:10:35,194 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0043:{"power_income": 63}'}
+2024-03-17 18:10:35,377 INFO consumers.py: received: {'type': 'UPDT', 'message': '0032:0006:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,377 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0029:{"local_time": "2024-03-17 18:10:35.377136"}'}
+2024-03-17 18:10:35,383 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0040:{"local_time": "2024-03-17 18:10:35.374960"}'}
+2024-03-17 18:10:35,386 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0001:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,387 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0050:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,390 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0004:{"local_time": "2024-03-17 18:10:35.342628"}'}
+2024-03-17 18:10:35,393 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0044:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,393 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0047:{"local_time": "2024-03-17 18:10:35.377136"}'}
+2024-03-17 18:10:35,393 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0028:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,398 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0032:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,403 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0013:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,409 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0039:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,415 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0014:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,416 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0009:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,422 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0024:{"local_time": "2024-03-17 18:10:35.374960"}'}
+2024-03-17 18:10:35,423 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0017:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,430 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0005:{"local_time": "2024-03-17 18:10:35.377136"}'}
+2024-03-17 18:10:35,435 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0002:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,437 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0003:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,439 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0007:{"local_time": "2024-03-17 18:10:35.343503"}'}
+2024-03-17 18:10:35,442 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0041:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:35,445 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0043:{"local_time": "2024-03-17 18:10:35.343795"}'}
+2024-03-17 18:10:36,010 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0011:{"power_inject": 39}'}
+2024-03-17 18:10:36,013 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0019:{"power_inject": 340}'}
+2024-03-17 18:10:36,014 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0014:{"power_inject": 21}'}
+2024-03-17 18:10:36,016 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0022:{"battery": 245, "power_inject": 7}'}
+2024-03-17 18:10:36,017 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0017:{"battery": 106}'}
+2024-03-17 18:10:36,019 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0013:{"power_inject": 83}'}
+2024-03-17 18:10:36,020 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0028:{"power_income": 90}'}
+2024-03-17 18:10:36,023 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0018:{"battery": 172}'}
+2024-03-17 18:10:36,024 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0012:{"power_consumption": 418}'}
+2024-03-17 18:10:36,226 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0038:{"power_consumption": 260}'}
+2024-03-17 18:10:37,058 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0049:{"power_inject": 320}'}
+2024-03-17 18:10:37,060 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0020:{"power_consumption": 125}'}
+2024-03-17 18:10:37,062 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0024:{"battery": 390}'}
+2024-03-17 18:10:37,063 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0013:{"power_income": 249}'}
+2024-03-17 18:10:37,066 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0046:{"battery": 330, "power_income": 33}'}
+2024-03-17 18:10:37,067 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0023:{"battery": 239}'}
+2024-03-17 18:10:37,075 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0048:{"power_consumption": 267, "power_income": 172}'}
+2024-03-17 18:10:37,078 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0010:{"power_inject": 387}'}
+2024-03-17 18:10:37,083 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0021:{"power_inject": 121}'}
+2024-03-17 18:10:37,087 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0042:{"power_inject": 116}'}
+2024-03-17 18:10:37,877 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0001:{"power_inject": 234}'}
+2024-03-17 18:10:37,879 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0015:{"power_inject": 253}'}
+2024-03-17 18:10:37,884 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0011:{"power_income": 250}'}
+2024-03-17 18:10:37,890 INFO consumers.py: received: {'type': 'UPDT', 'message': '0033:0006:{"battery": 269}'}
+2024-03-17 18:10:37,894 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0002:{"battery": 393}'}
+2024-03-17 18:10:37,895 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0004:{"power_inject": 388}'}
+2024-03-17 18:10:38,079 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0036:{"battery": 245}'}
+2024-03-17 18:10:38,085 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0031:{"power_inject": 344}'}
+2024-03-17 18:10:38,086 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0048:{"battery": 371}'}
+2024-03-17 18:10:38,090 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0050:{"power_consumption": 316}'}
+2024-03-17 18:10:38,091 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0035:{"power_inject": 375}'}
+2024-03-17 18:10:38,097 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0024:{"power_consumption": 51}'}
+2024-03-17 18:10:38,105 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0028:{"power_consumption": 377}'}
+2024-03-17 18:10:38,911 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0008:{"power_consumption": 129}'}
+2024-03-17 18:10:38,916 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0001:{"power_consumption": 82, "power_inject": 236}'}
+2024-03-17 18:10:38,920 INFO consumers.py: received: {'type': 'UPDT', 'message': '0034:0006:{"power_inject": 286}'}
+2024-03-17 18:10:39,110 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0030:{"battery": 393, "power_inject": 58}'}
+2024-03-17 18:10:39,113 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0029:{"power_income": 196}'}
+2024-03-17 18:10:39,117 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0049:{"power_income": 213}'}
+2024-03-17 18:10:39,119 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0033:{"power_income": 303}'}
+2024-03-17 18:10:39,122 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0025:{"power_inject": 187}'}
+2024-03-17 18:10:39,925 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0009:{"battery": 81}'}
+2024-03-17 18:10:39,930 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0001:{"battery": 61}'}
+2024-03-17 18:10:39,935 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0008:{"power_consumption": 130}'}
+2024-03-17 18:10:39,937 INFO consumers.py: received: {'type': 'UPDT', 'message': '0032:0002:{"power_income": 251}'}
+2024-03-17 18:10:39,947 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0004:{"power_consumption": 352}'}
+2024-03-17 18:10:39,954 INFO consumers.py: received: {'type': 'UPDT', 'message': '0035:0006:{"battery": 270}'}
+2024-03-17 18:10:40,127 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0044:{"battery": 197}'}
+2024-03-17 18:10:40,129 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0027:{"power_consumption": 251}'}
+2024-03-17 18:10:40,132 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0045:{"power_inject": 210}'}
+2024-03-17 18:10:40,136 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0047:{"power_inject": 9}'}
+2024-03-17 18:10:40,142 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0048:{"power_inject": 428}'}
+2024-03-17 18:10:40,148 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0039:{"power_inject": 408}'}
+2024-03-17 18:10:40,151 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0041:{"power_inject": 84}'}
+2024-03-17 18:10:40,158 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0034:{"power_consumption": 326, "battery": 321, "power_income": 113}'}
+2024-03-17 18:10:40,168 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0036:{"power_income": 285}'}
+2024-03-17 18:10:40,960 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0012:{"battery": 408}'}
+2024-03-17 18:10:40,961 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0017:{"power_consumption": 70}'}
+2024-03-17 18:10:41,029 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0028:{"power_inject": 362}'}
+2024-03-17 18:10:41,161 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0048:{"power_income": 173}'}
+2024-03-17 18:10:41,164 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0038:{"battery": 421, "power_inject": 19}'}
+2024-03-17 18:10:41,166 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0049:{"battery": 192}'}
+2024-03-17 18:10:41,167 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0032:{"power_inject": 391, "battery": 16}'}
+2024-03-17 18:10:41,989 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0023:{"battery": 240}'}
+2024-03-17 18:10:41,992 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0026:{"battery": 258, "power_inject": 58}'}
+2024-03-17 18:10:41,994 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0030:{"power_income": 418}'}
+2024-03-17 18:10:41,995 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0008:{"battery": 104}'}
+2024-03-17 18:10:41,997 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0014:{"power_consumption": 335}'}
+2024-03-17 18:10:41,998 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0003:{"power_consumption": 97}'}
+2024-03-17 18:10:42,193 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0050:{"battery": 100}'}
+2024-03-17 18:10:42,196 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0045:{"power_consumption": 386}'}
+2024-03-17 18:10:42,199 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0044:{"battery": 198}'}
+2024-03-17 18:10:42,205 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0036:{"battery": 246}'}
+2024-03-17 18:10:43,010 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0022:{"power_consumption": 391}'}
+2024-03-17 18:10:43,013 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0026:{"power_consumption": 368}'}
+2024-03-17 18:10:43,016 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0020:{"power_inject": 166}'}
+2024-03-17 18:10:43,020 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0018:{"power_inject": 413}'}
+2024-03-17 18:10:43,021 INFO consumers.py: received: {'type': 'UPDT', 'message': '0007:0037:{"power_consumption": 334}'}
+2024-03-17 18:10:43,023 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0019:{"power_consumption": 32, "power_inject": 341}'}
+2024-03-17 18:10:43,024 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0010:{"battery": 184}'}
+2024-03-17 18:10:43,028 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0030:{"power_inject": 59}'}
+2024-03-17 18:10:43,228 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0042:{"power_income": 235}'}
+2024-03-17 18:10:43,230 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0045:{"battery": 10}'}
+2024-03-17 18:10:43,860 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0012:{"power_consumption": 419}'}
+2024-03-17 18:10:43,862 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0007:{"power_income": 12}'}
+2024-03-17 18:10:44,061 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0025:{"power_income": 312}'}
+2024-03-17 18:10:44,063 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0032:{"power_consumption": 281}'}
+2024-03-17 18:10:44,066 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0043:{"power_inject": 250}'}
+2024-03-17 18:10:44,069 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0023:{"power_consumption": 105}'}
+2024-03-17 18:10:44,893 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0013:{"power_income": 250}'}
+2024-03-17 18:10:44,896 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0023:{"power_consumption": 106}'}
+2024-03-17 18:10:44,897 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0016:{"power_income": 387}'}
+2024-03-17 18:10:44,900 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0001:{"power_income": 18}'}
+2024-03-17 18:10:44,901 INFO consumers.py: received: {'type': 'UPDT', 'message': '0036:0006:{"power_income": 128}'}
+2024-03-17 18:10:44,901 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0019:{"power_consumption": 33}'}
+2024-03-17 18:10:44,905 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0015:{"power_income": 135}'}
+2024-03-17 18:10:45,095 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0050:{"power_inject": 21}'}
+2024-03-17 18:10:45,097 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0044:{"power_consumption": 227}'}
+2024-03-17 18:10:45,910 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0003:{"power_income": 65}'}
+2024-03-17 18:10:45,912 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0021:{"power_consumption": 23}'}
+2024-03-17 18:10:45,914 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0012:{"battery": 409}'}
+2024-03-17 18:10:45,915 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0015:{"battery": 387}'}
+2024-03-17 18:10:45,917 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0028:{"power_consumption": 378}'}
+2024-03-17 18:10:45,919 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0020:{"power_inject": 167}'}
+2024-03-17 18:10:45,922 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0009:{"power_income": 261, "battery": 82}'}
+2024-03-17 18:10:45,924 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0017:{"power_inject": 270}'}
+2024-03-17 18:10:46,118 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0029:{"power_income": 197}'}
+2024-03-17 18:10:46,120 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0024:{"power_income": 100}'}
+2024-03-17 18:10:46,122 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0043:{"battery": 315}'}
+2024-03-17 18:10:46,123 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0048:{"power_inject": 427}'}
+2024-03-17 18:10:46,926 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0030:{"battery": 394}'}
+2024-03-17 18:10:46,929 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0014:{"power_consumption": 337}'}
+2024-03-17 18:10:46,930 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0009:{"power_inject": 36}'}
+2024-03-17 18:10:46,933 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0012:{"power_income": 47}'}
+2024-03-17 18:10:46,934 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0005:{"battery": 323}'}
+2024-03-17 18:10:46,937 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0024:{"power_inject": 16}'}
+2024-03-17 18:10:46,939 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0011:{"battery": 177}'}
+2024-03-17 18:10:47,128 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0042:{"battery": 200}'}
+2024-03-17 18:10:47,130 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0047:{"power_inject": 10}'}
+2024-03-17 18:10:47,131 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0039:{"power_income": 412}'}
+2024-03-17 18:10:47,134 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0041:{"power_inject": 85, "battery": 401}'}
+2024-03-17 18:10:47,948 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0011:{"power_income": 251}'}
+2024-03-17 18:10:47,951 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0029:{"battery": 280}'}
+2024-03-17 18:10:47,953 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0024:{"power_income": 101}'}
+2024-03-17 18:10:48,161 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0033:{"power_income": 304}'}
+2024-03-17 18:10:48,163 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0032:{"power_inject": 392}'}
+2024-03-17 18:10:48,164 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0038:{"power_consumption": 261}'}
+2024-03-17 18:10:48,167 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0048:{"battery": 372}'}
+2024-03-17 18:10:48,966 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0004:{"power_inject": 389}'}
+2024-03-17 18:10:48,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0010:{"power_consumption": 390, "battery": 185}'}
+2024-03-17 18:10:48,970 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0005:{"power_income": 126}'}
+2024-03-17 18:10:48,971 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0017:{"power_inject": 271}'}
+2024-03-17 18:10:48,973 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0014:{"battery": 159}'}
+2024-03-17 18:10:48,974 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0030:{"power_inject": 61}'}
+2024-03-17 18:10:49,166 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0040:{"battery": 318}'}
+2024-03-17 18:10:49,167 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0035:{"power_income": 300}'}
+2024-03-17 18:10:49,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0019:{"power_consumption": 34}'}
+2024-03-17 18:10:49,971 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0024:{"power_inject": 17}'}
+2024-03-17 18:10:49,973 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0022:{"power_income": 101}'}
+2024-03-17 18:10:49,976 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0010:{"power_income": 369}'}
+2024-03-17 18:10:49,976 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0032:{"power_inject": 393}'}
+2024-03-17 18:10:49,980 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0007:{"power_income": 13}'}
+2024-03-17 18:10:49,982 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0011:{"battery": 178}'}
+2024-03-17 18:10:49,989 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0017:{"power_consumption": 71}'}
+2024-03-17 18:10:50,180 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0043:{"power_inject": 251}'}
+2024-03-17 18:10:50,183 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0047:{"battery": 384}'}
+2024-03-17 18:10:50,185 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0035:{"power_inject": 376}'}
+2024-03-17 18:10:50,397 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0032:{"local_time": "2024-03-17 18:10:50.360288"}'}
+2024-03-17 18:10:50,398 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0028:{"local_time": "2024-03-17 18:10:50.360288"}'}
+2024-03-17 18:10:50,401 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0039:{"local_time": "2024-03-17 18:10:50.360288"}'}
+2024-03-17 18:10:50,401 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0001:{"local_time": "2024-03-17 18:10:50.360288"}'}
+2024-03-17 18:10:50,404 INFO consumers.py: received: {'type': 'UPDT', 'message': '0037:0006:{"local_time": "2024-03-17 18:10:50.360288"}'}
+2024-03-17 18:10:50,405 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0013:{"local_time": "2024-03-17 18:10:50.360288"}'}
+2024-03-17 18:10:50,405 INFO consumers.py: received: {'type': 'UPDT', 'message': '0033:0002:{"local_time": "2024-03-17 18:10:50.360288"}'}
+2024-03-17 18:10:50,596 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0005:{"local_time": "2024-03-17 18:10:50.531250"}'}
+2024-03-17 18:10:50,599 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0047:{"local_time": "2024-03-17 18:10:50.530244"}'}
+2024-03-17 18:10:50,601 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0007:{"local_time": "2024-03-17 18:10:50.531250"}'}
+2024-03-17 18:10:50,603 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0009:{"local_time": "2024-03-17 18:10:50.530244"}'}
+2024-03-17 18:10:50,606 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0004:{"local_time": "2024-03-17 18:10:50.529739"}'}
+2024-03-17 18:10:50,608 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0029:{"local_time": "2024-03-17 18:10:50.530244"}'}
+2024-03-17 18:10:50,610 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0014:{"local_time": "2024-03-17 18:10:50.528738"}'}
+2024-03-17 18:10:50,614 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0024:{"local_time": "2024-03-17 18:10:50.528738"}'}
+2024-03-17 18:10:50,618 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0040:{"local_time": "2024-03-17 18:10:50.531250"}'}
+2024-03-17 18:10:50,833 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0004:{"power_inject": 390, "power_consumption": 353}'}
+2024-03-17 18:10:50,992 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0023:{"battery": 241, "power_inject": 407}'}
+2024-03-17 18:10:50,995 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0015:{"power_consumption": 244}'}
+2024-03-17 18:10:50,996 INFO consumers.py: received: {'type': 'UPDT', 'message': '0034:0002:{"power_consumption": 365}'}
+2024-03-17 18:10:51,000 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0026:{"battery": 259}'}
+2024-03-17 18:10:51,001 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0016:{"power_consumption": 36}'}
+2024-03-17 18:10:51,002 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0043:{"power_consumption": 158}'}
+2024-03-17 18:10:51,194 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0039:{"power_income": 413}'}
+2024-03-17 18:10:51,196 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0035:{"power_consumption": 104}'}
+2024-03-17 18:10:51,199 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0046:{"power_income": 34}'}
+2024-03-17 18:10:51,201 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0043:{"battery": 316}'}
+2024-03-17 18:10:51,383 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0041:{"local_time": "2024-03-17 18:10:51.347514"}'}
+2024-03-17 18:10:51,384 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0050:{"local_time": "2024-03-17 18:10:51.347514"}'}
+2024-03-17 18:10:51,386 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0044:{"local_time": "2024-03-17 18:10:51.347514"}'}
+2024-03-17 18:10:51,387 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0017:{"local_time": "2024-03-17 18:10:51.347514"}'}
+2024-03-17 18:10:51,389 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0043:{"local_time": "2024-03-17 18:10:51.347514"}'}
+2024-03-17 18:10:51,391 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0003:{"local_time": "2024-03-17 18:10:51.347514"}'}
+2024-03-17 18:10:52,007 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0001:{"power_income": 19, "power_inject": 237}'}
+2024-03-17 18:10:52,021 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0030:{"power_inject": 62}'}
+2024-03-17 18:10:52,027 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0009:{"power_consumption": 160}'}
+2024-03-17 18:10:52,035 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0021:{"power_inject": 122, "power_consumption": 24}'}
+2024-03-17 18:10:52,040 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0007:{"power_inject": 154}'}
+2024-03-17 18:10:52,069 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0012:{"power_consumption": 420}'}
+2024-03-17 18:10:52,209 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0036:{"battery": 247}'}
+2024-03-17 18:10:52,214 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0048:{"power_inject": 426}'}
+2024-03-17 18:10:52,216 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0043:{"battery": 317}'}
+2024-03-17 18:10:52,218 INFO consumers.py: received: {'type': 'UPDT', 'message': '0008:0037:{"power_consumption": 335}'}
+2024-03-17 18:10:52,220 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0049:{"power_inject": 321, "power_income": 214}'}
+2024-03-17 18:10:53,147 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0047:{"power_inject": 11}'}
+2024-03-17 18:10:53,174 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0040:{"power_inject": 359}'}
+2024-03-17 18:10:53,174 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0030:{"power_inject": 63}'}
+2024-03-17 18:10:53,179 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0027:{"power_inject": 366}'}
+2024-03-17 18:10:53,179 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0046:{"power_inject": 188}'}
+2024-03-17 18:10:53,190 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0048:{"power_inject": 425}'}
+2024-03-17 18:10:53,227 INFO consumers.py: received: {'type': 'UPDT', 'message': '0009:0037:{"power_income": 66}'}
+2024-03-17 18:10:53,385 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0016:{"power_consumption": 37}'}
+2024-03-17 18:10:53,435 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0011:{"power_income": 252}'}
+2024-03-17 18:10:53,481 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0033:{"power_consumption": 32, "power_inject": 367}'}
+2024-03-17 18:10:53,617 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0004:{"battery": 266}'}
+2024-03-17 18:10:53,623 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0031:{"power_consumption": 344}'}
+2024-03-17 18:10:53,719 INFO consumers.py: received: {'type': 'UPDT', 'message': '0038:0006:{"power_consumption": 306}'}
+2024-03-17 18:10:53,739 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0005:{"power_income": 127, "battery": 324}'}
+2024-03-17 18:10:54,108 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0017:{"battery": 107}'}
+2024-03-17 18:10:54,121 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0014:{"power_income": 154}'}
+2024-03-17 18:10:54,123 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0025:{"power_income": 313, "battery": 9}'}
+2024-03-17 18:10:54,132 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0029:{"power_consumption": 31, "power_income": 198}'}
+2024-03-17 18:10:54,264 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0036:{"power_inject": 131}'}
+2024-03-17 18:10:54,311 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0040:{"power_income": 386}'}
+2024-03-17 18:10:54,362 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0029:{"power_consumption": 32}'}
+2024-03-17 18:10:54,362 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0004:{"battery": 267}'}
+2024-03-17 18:10:54,384 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0042:{"power_consumption": 102}'}
+2024-03-17 18:10:54,389 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0022:{"power_consumption": 392}'}
+2024-03-17 18:10:54,454 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0010:{"power_consumption": 391}'}
+2024-03-17 18:10:55,058 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0030:{"power_income": 419}'}
+2024-03-17 18:10:55,078 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0007:{"power_consumption": 427}'}
+2024-03-17 18:10:55,082 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0021:{"battery": 160}'}
+2024-03-17 18:10:55,134 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0028:{"power_income": 91}'}
+2024-03-17 18:10:55,139 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0049:{"power_income": 215}'}
+2024-03-17 18:10:55,145 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0043:{"battery": 318}'}
+2024-03-17 18:10:55,146 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0029:{"power_inject": 414}'}
+2024-03-17 18:10:55,148 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0036:{"power_income": 286}'}
+2024-03-17 18:10:55,149 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0026:{"power_income": 385}'}
+2024-03-17 18:10:55,169 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0042:{"battery": 201}'}
+2024-03-17 18:10:55,332 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0033:{"power_consumption": 33}'}
+2024-03-17 18:10:55,341 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0047:{"power_income": 12}'}
+2024-03-17 18:10:55,349 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0046:{"battery": 331}'}
+2024-03-17 18:10:55,350 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0038:{"battery": 422}'}
+2024-03-17 18:10:55,355 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0034:{"power_consumption": 327}'}
+2024-03-17 18:10:55,926 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0022:{"power_income": 102}'}
+2024-03-17 18:10:55,999 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0009:{"power_consumption": 161}'}
+2024-03-17 18:10:56,009 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0018:{"power_income": 295}'}
+2024-03-17 18:10:56,144 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0034:{"power_income": 114}'}
+2024-03-17 18:10:56,152 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0005:{"battery": 325}'}
+2024-03-17 18:10:56,171 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0046:{"power_consumption": 297}'}
+2024-03-17 18:10:56,176 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0049:{"battery": 193}'}
+2024-03-17 18:10:56,185 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0038:{"power_income": 200, "power_inject": 20}'}
+2024-03-17 18:10:56,191 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0033:{"power_inject": 368}'}
+2024-03-17 18:10:56,203 INFO consumers.py: received: {'type': 'UPDT', 'message': '0010:0037:{"power_inject": 394}'}
+2024-03-17 18:10:56,891 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0011:{"battery": 179}'}
+2024-03-17 18:10:57,009 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0014:{"power_inject": 22}'}
+2024-03-17 18:10:57,120 INFO consumers.py: received: {'type': 'UPDT', 'message': '0035:0002:{"power_inject": 317}'}
+2024-03-17 18:10:57,144 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0012:{"power_consumption": 420}'}
+2024-03-17 18:10:57,146 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0021:{"power_inject": 123, "power_income": 346}'}
+2024-03-17 18:10:57,157 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0005:{"power_income": 128}'}
+2024-03-17 18:10:57,176 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0034:{"power_inject": 391}'}
+2024-03-17 18:10:57,191 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0016:{"power_inject": 107}'}
+2024-03-17 18:10:57,199 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0008:{"power_consumption": 131}'}
+2024-03-17 18:10:57,449 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0042:{"battery": 202}'}
+2024-03-17 18:10:57,946 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0003:{"battery": 17}'}
+2024-03-17 18:10:57,948 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0013:{"battery": 161}'}
+2024-03-17 18:10:57,950 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0011:{"power_consumption": 182}'}
+2024-03-17 18:10:57,953 INFO consumers.py: received: {'type': 'UPDT', 'message': '0036:0002:{"power_inject": 318}'}
+2024-03-17 18:10:57,959 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0012:{"power_income": 48}'}
+2024-03-17 18:10:58,152 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0046:{"power_consumption": 298}'}
+2024-03-17 18:10:58,158 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0032:{"power_income": 86}'}
+2024-03-17 18:10:58,163 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0043:{"power_inject": 252}'}
+2024-03-17 18:10:58,168 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0047:{"power_inject": 12}'}
+2024-03-17 18:10:58,182 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0036:{"power_consumption": 14}'}
+2024-03-17 18:10:58,945 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0005:{"power_consumption": 90}'}
+2024-03-17 18:10:58,950 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0001:{"power_income": 20}'}
+2024-03-17 18:10:58,950 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0003:{"power_consumption": 98}'}
+2024-03-17 18:10:58,953 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0015:{"power_consumption": 245}'}
+2024-03-17 18:10:58,954 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0027:{"power_consumption": 252}'}
+2024-03-17 18:10:58,962 INFO consumers.py: received: {'type': 'UPDT', 'message': '0039:0006:{"power_inject": 287}'}
+2024-03-17 18:10:58,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0011:{"battery": 180}'}
+2024-03-17 18:10:59,161 INFO consumers.py: received: {'type': 'UPDT', 'message': '0011:0037:{"battery": 341}'}
+2024-03-17 18:10:59,165 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0039:{"power_income": 414}'}
+2024-03-17 18:10:59,986 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0016:{"battery": 379}'}
+2024-03-17 18:10:59,990 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0027:{"power_consumption": 253}'}
+2024-03-17 18:10:59,990 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0007:{"power_inject": 155}'}
+2024-03-17 18:10:59,994 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0013:{"power_consumption": 149, "battery": 162}'}
+2024-03-17 18:10:59,994 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0020:{"power_income": 343, "power_consumption": 126}'}
+2024-03-17 18:11:00,000 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0011:{"power_inject": 41}'}
+2024-03-17 18:11:00,004 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0019:{"battery": 13}'}
+2024-03-17 18:11:00,004 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0004:{"power_inject": 391}'}
+2024-03-17 18:11:00,004 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0033:{"power_income": 305}'}
+2024-03-17 18:11:00,190 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0041:{"power_income": 273}'}
+2024-03-17 18:11:00,205 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0046:{"battery": 332}'}
+2024-03-17 18:11:00,207 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0038:{"power_income": 201}'}
+2024-03-17 18:11:00,217 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0048:{"power_consumption": 269}'}
+2024-03-17 18:11:00,223 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0039:{"power_consumption": 62}'}
+2024-03-17 18:11:00,230 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0050:{"power_income": 276, "battery": 101}'}
+2024-03-17 18:11:00,243 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0035:{"power_inject": 377}'}
+2024-03-17 18:11:00,249 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0040:{"power_consumption": 309}'}
+2024-03-17 18:11:00,263 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0033:{"power_inject": 369}'}
+2024-03-17 18:11:00,874 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0020:{"power_income": 344}'}
+2024-03-17 18:11:00,877 INFO consumers.py: received: {'type': 'UPDT', 'message': '0032:0004:{"power_income": 263}'}
+2024-03-17 18:11:01,012 INFO consumers.py: received: {'type': 'UPDT', 'message': '0037:0002:{"power_consumption": 366}'}
+2024-03-17 18:11:01,014 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0015:{"power_consumption": 246, "power_inject": 254}'}
+2024-03-17 18:11:01,016 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0018:{"power_consumption": 220}'}
+2024-03-17 18:11:01,018 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0012:{"power_inject": 210}'}
+2024-03-17 18:11:01,019 INFO consumers.py: received: {'type': 'UPDT', 'message': '0040:0006:{"power_inject": 288}'}
+2024-03-17 18:11:01,023 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0022:{"power_inject": 8}'}
+2024-03-17 18:11:01,091 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0048:{"battery": 373}'}
+2024-03-17 18:11:01,096 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0046:{"power_inject": 189}'}
+2024-03-17 18:11:01,226 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0042:{"power_income": 236}'}
+2024-03-17 18:11:01,294 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0048:{"power_inject": 424}'}
+2024-03-17 18:11:01,828 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0012:{"power_inject": 211}'}
+2024-03-17 18:11:02,028 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0031:{"power_income": 257, "power_inject": 345}'}
+2024-03-17 18:11:02,032 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0026:{"power_consumption": 369}'}
+2024-03-17 18:11:02,033 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0028:{"power_consumption": 379, "battery": 95, "power_income": 92}'}
+2024-03-17 18:11:02,118 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0039:{"power_inject": 409, "power_consumption": 63, "battery": 144, "power_income": 416}'}
+2024-03-17 18:11:02,124 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0038:{"battery": 423}'}
+2024-03-17 18:11:02,124 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0027:{"battery": 107}'}
+2024-03-17 18:11:02,153 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0036:{"power_inject": 133}'}
+2024-03-17 18:11:02,233 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0014:{"power_income": 155}'}
+2024-03-17 18:11:02,235 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0042:{"power_consumption": 103}'}
+2024-03-17 18:11:02,237 INFO consumers.py: received: {'type': 'UPDT', 'message': '0012:0037:{"power_income": 67}'}
+2024-03-17 18:11:02,828 INFO consumers.py: received: {'type': 'UPDT', 'message': '0041:0006:{"power_income": 129}'}
+2024-03-17 18:11:02,855 INFO consumers.py: received: {'type': 'UPDT', 'message': '0042:0006:{"battery": 271}'}
+2024-03-17 18:11:02,962 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0020:{"power_inject": 168}'}
+2024-03-17 18:11:02,964 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0019:{"power_income": 245}'}
+2024-03-17 18:11:02,966 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0013:{"power_inject": 84}'}
+2024-03-17 18:11:03,044 INFO consumers.py: received: {'type': 'UPDT', 'message': '0032:0003:{"battery": 18}'}
+2024-03-17 18:11:03,049 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0044:{"battery": 199}'}
+2024-03-17 18:11:03,154 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0043:{"power_consumption": 159}'}
+2024-03-17 18:11:03,157 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0040:{"battery": 319}'}
+2024-03-17 18:11:03,159 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0041:{"battery": 402}'}
+2024-03-17 18:11:03,161 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0046:{"power_income": 35}'}
+2024-03-17 18:11:03,254 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0042:{"power_consumption": 104}'}
+2024-03-17 18:11:03,255 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0032:{"power_income": 87}'}
+2024-03-17 18:11:04,050 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0014:{"power_inject": 23}'}
+2024-03-17 18:11:04,050 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0025:{"power_consumption": 173}'}
+2024-03-17 18:11:04,057 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0044:{"power_consumption": 228}'}
+2024-03-17 18:11:04,059 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0010:{"power_inject": 388}'}
+2024-03-17 18:11:04,059 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0008:{"power_inject": 342}'}
+2024-03-17 18:11:04,181 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0036:{"battery": 248}'}
+2024-03-17 18:11:04,210 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0047:{"power_income": 13}'}
+2024-03-17 18:11:04,272 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0030:{"power_income": 420}'}
+2024-03-17 18:11:04,362 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0010:{"power_consumption": 392}'}
+2024-03-17 18:11:04,811 INFO consumers.py: received: {'type': 'UPDT', 'message': '0033:0004:{"power_consumption": 354}'}
+2024-03-17 18:11:04,962 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0005:{"power_inject": 10}'}
+2024-03-17 18:11:04,965 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0017:{"power_income": 196}'}
+2024-03-17 18:11:04,965 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0008:{"power_income": 77}'}
+2024-03-17 18:11:04,965 INFO consumers.py: received: {'type': 'UPDT', 'message': '0033:0003:{"power_inject": 189}'}
+2024-03-17 18:11:05,017 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0035:{"battery": 319}'}
+2024-03-17 18:11:05,018 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0007:{"power_consumption": 425}'}
+2024-03-17 18:11:05,055 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0032:{"power_consumption": 282}'}
+2024-03-17 18:11:05,167 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0017:{"battery": 108}'}
+2024-03-17 18:11:05,179 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0029:{"power_consumption": 33}'}
+2024-03-17 18:11:05,186 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0045:{"power_income": 413, "power_inject": 211}'}
+2024-03-17 18:11:05,191 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0039:{"battery": 145}'}
+2024-03-17 18:11:05,199 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0042:{"power_inject": 118}'}
+2024-03-17 18:11:05,207 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0044:{"power_inject": 129}'}
+2024-03-17 18:11:05,212 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0047:{"power_consumption": 194}'}
+2024-03-17 18:11:05,994 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0001:{"local_time": "2024-03-17 18:11:05.994751"}'}
+2024-03-17 18:11:05,999 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0015:{"power_income": 136}'}
+2024-03-17 18:11:06,001 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0008:{"power_inject": 343}'}
+2024-03-17 18:11:06,003 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0012:{"battery": 410}'}
+2024-03-17 18:11:06,005 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0020:{"battery": 401}'}
+2024-03-17 18:11:06,007 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0024:{"power_income": 102}'}
+2024-03-17 18:11:06,009 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0010:{"battery": 186}'}
+2024-03-17 18:11:06,057 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0039:{"local_time": "2024-03-17 18:11:05.994751"}'}
+2024-03-17 18:11:06,062 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0027:{"power_inject": 367}'}
+2024-03-17 18:11:06,065 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0023:{"power_income": 380}'}
+2024-03-17 18:11:06,070 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0028:{"power_inject": 363, "local_time": "2024-03-17 18:11:05.994751"}'}
+2024-03-17 18:11:06,072 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0032:{"local_time": "2024-03-17 18:11:05.994751"}'}
+2024-03-17 18:11:06,214 INFO consumers.py: received: {'type': 'UPDT', 'message': '0038:0002:{"local_time": "2024-03-17 18:11:06.020818"}'}
+2024-03-17 18:11:06,241 INFO consumers.py: received: {'type': 'UPDT', 'message': '0043:0006:{"local_time": "2024-03-17 18:11:06.018432"}'}
+2024-03-17 18:11:06,257 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0036:{"power_income": 287, "power_consumption": 15}'}
+2024-03-17 18:11:06,263 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0013:{"local_time": "2024-03-17 18:11:06.062001"}'}
+2024-03-17 18:11:06,455 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0014:{"local_time": "2024-03-17 18:11:06.324422"}'}
+2024-03-17 18:11:06,471 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0005:{"local_time": "2024-03-17 18:11:06.436494"}'}
+2024-03-17 18:11:06,479 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0024:{"local_time": "2024-03-17 18:11:06.325467"}'}
+2024-03-17 18:11:06,487 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0047:{"local_time": "2024-03-17 18:11:06.325467"}'}
+2024-03-17 18:11:06,489 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0007:{"local_time": "2024-03-17 18:11:06.326936"}'}
+2024-03-17 18:11:06,492 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0009:{"local_time": "2024-03-17 18:11:06.415205"}'}
+2024-03-17 18:11:06,499 INFO consumers.py: received: {'type': 'UPDT', 'message': '0034:0004:{"local_time": "2024-03-17 18:11:06.386148"}'}
+2024-03-17 18:11:06,500 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0040:{"local_time": "2024-03-17 18:11:06.323899"}'}
+2024-03-17 18:11:06,501 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0029:{"local_time": "2024-03-17 18:11:06.439512"}'}
+2024-03-17 18:11:06,877 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0007:{"power_income": 14}'}
+2024-03-17 18:11:06,880 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0020:{"power_inject": 169}'}
+2024-03-17 18:11:07,080 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0035:{"power_income": 301}'}
+2024-03-17 18:11:07,082 INFO consumers.py: received: {'type': 'UPDT', 'message': '0044:0006:{"power_consumption": 307}'}
+2024-03-17 18:11:07,083 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0042:{"power_income": 237}'}
+2024-03-17 18:11:07,086 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0050:{"local_time": "2024-03-17 18:11:07.018308"}'}
+2024-03-17 18:11:07,087 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0043:{"local_time": "2024-03-17 18:11:07.017309"}'}
+2024-03-17 18:11:07,087 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0017:{"local_time": "2024-03-17 18:11:07.018308"}'}
+2024-03-17 18:11:07,089 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0013:{"battery": 163}'}
+2024-03-17 18:11:07,092 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0026:{"power_inject": 59, "battery": 260}'}
+2024-03-17 18:11:07,094 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0009:{"power_consumption": 162}'}
+2024-03-17 18:11:07,094 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0041:{"local_time": "2024-03-17 18:11:07.017309"}'}
+2024-03-17 18:11:07,096 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0037:{"power_inject": 395}'}
+2024-03-17 18:11:07,097 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0021:{"power_income": 347}'}
+2024-03-17 18:11:07,100 INFO consumers.py: received: {'type': 'UPDT', 'message': '0034:0003:{"local_time": "2024-03-17 18:11:07.018308"}'}
+2024-03-17 18:11:07,104 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0044:{"local_time": "2024-03-17 18:11:07.016337"}'}
+2024-03-17 18:11:07,905 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0021:{"power_inject": 124}'}
+2024-03-17 18:11:07,908 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0008:{"battery": 106}'}
+2024-03-17 18:11:07,909 INFO consumers.py: received: {'type': 'UPDT', 'message': '0035:0004:{"power_inject": 392}'}
+2024-03-17 18:11:07,910 INFO consumers.py: received: {'type': 'UPDT', 'message': '0032:0013:{"power_income": 251}'}
+2024-03-17 18:11:07,912 INFO consumers.py: received: {'type': 'UPDT', 'message': '0032:0014:{"power_inject": 24}'}
+2024-03-17 18:11:07,912 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0016:{"power_income": 388}'}
+2024-03-17 18:11:08,121 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0027:{"power_income": 268}'}
+2024-03-17 18:11:08,123 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0032:{"battery": 17}'}
+2024-03-17 18:11:08,131 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0031:{"power_consumption": 345}'}
+2024-03-17 18:11:08,133 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0035:{"power_inject": 378, "power_consumption": 105}'}
+2024-03-17 18:11:08,134 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0047:{"power_consumption": 195}'}
+2024-03-17 18:11:08,136 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0026:{"power_income": 386}'}
+2024-03-17 18:11:08,137 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0050:{"battery": 103}'}
+2024-03-17 18:11:08,329 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0040:{"power_income": 387}'}
+2024-03-17 18:11:08,925 INFO consumers.py: received: {'type': 'UPDT', 'message': '0033:0014:{"power_inject": 25}'}
+2024-03-17 18:11:08,928 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0008:{"power_consumption": 132}'}
+2024-03-17 18:11:08,930 INFO consumers.py: received: {'type': 'UPDT', 'message': '0032:0001:{"power_income": 21}'}
+2024-03-17 18:11:08,931 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0012:{"power_income": 49}'}
+2024-03-17 18:11:08,933 INFO consumers.py: received: {'type': 'UPDT', 'message': '0039:0002:{"power_consumption": 367}'}
+2024-03-17 18:11:08,934 INFO consumers.py: received: {'type': 'UPDT', 'message': '0035:0003:{"battery": 19}'}
+2024-03-17 18:11:08,936 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0017:{"power_income": 198}'}
+2024-03-17 18:11:08,959 INFO consumers.py: received: {'type': 'UPDT', 'message': '0034:0014:{"power_inject": 26}'}
+2024-03-17 18:11:08,988 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0008:{"power_consumption": 133}'}
+2024-03-17 18:11:09,112 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0029:{"power_income": 199}'}
+2024-03-17 18:11:09,116 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0048:{"power_income": 174}'}
+2024-03-17 18:11:09,117 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0043:{"battery": 319}'}
+2024-03-17 18:11:09,119 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0034:{"battery": 322}'}
+2024-03-17 18:11:09,121 INFO consumers.py: received: {'type': 'UPDT', 'message': '0045:0006:{"power_consumption": 308}'}
+2024-03-17 18:11:09,124 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0044:{"power_consumption": 229}'}
+2024-03-17 18:11:09,125 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0033:{"power_consumption": 34}'}
+2024-03-17 18:11:09,315 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0043:{"power_inject": 253}'}
+2024-03-17 18:11:09,346 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0046:{"power_consumption": 299}'}
+2024-03-17 18:11:09,989 INFO consumers.py: received: {'type': 'UPDT', 'message': '0033:0001:{"battery": 62}'}
+2024-03-17 18:11:09,992 INFO consumers.py: received: {'type': 'UPDT', 'message': '0035:0014:{"power_consumption": 338}'}
+2024-03-17 18:11:09,994 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0021:{"power_income": 348}'}
+2024-03-17 18:11:09,994 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0031:{"power_consumption": 346}'}
+2024-03-17 18:11:10,130 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0011:{"power_income": 253}'}
+2024-03-17 18:11:10,176 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0042:{"power_inject": 119}'}
+2024-03-17 18:11:10,176 INFO consumers.py: received: {'type': 'UPDT', 'message': '0013:0049:{"power_consumption": 168}'}
+2024-03-17 18:11:10,183 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0040:{"battery": 320}'}
+2024-03-17 18:11:10,185 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0033:{"battery": 208}'}
+2024-03-17 18:11:10,333 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0034:{"power_inject": 392}'}
+2024-03-17 18:11:10,961 INFO consumers.py: received: {'type': 'UPDT', 'message': '0036:0014:{"battery": 160}'}
+2024-03-17 18:11:10,963 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0027:{"power_consumption": 254}'}
+2024-03-17 18:11:10,965 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0007:{"battery": 29}'}
+2024-03-17 18:11:10,965 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0015:{"battery": 388}'}
+2024-03-17 18:11:10,968 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0012:{"battery": 411}'}
+2024-03-17 18:11:10,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0019:{"power_inject": 342}'}
+2024-03-17 18:11:11,149 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0041:{"battery": 403}'}
+2024-03-17 18:11:11,151 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0038:{"power_income": 202, "battery": 424}'}
+2024-03-17 18:11:11,152 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0005:{"power_income": 129}'}
+2024-03-17 18:11:11,154 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0025:{"battery": 10}'}
+2024-03-17 18:11:11,155 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0047:{"power_inject": 13}'}
+2024-03-17 18:11:11,157 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0017:{"battery": 109}'}
+2024-03-17 18:11:11,159 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0040:{"power_income": 388}'}
+2024-03-17 18:11:11,964 INFO consumers.py: received: {'type': 'UPDT', 'message': '0040:0002:{"power_income": 252}'}
+2024-03-17 18:11:11,967 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0015:{"power_income": 137}'}
+2024-03-17 18:11:11,968 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0018:{"power_income": 296}'}
+2024-03-17 18:11:11,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0021:{"power_consumption": 25}'}
+2024-03-17 18:11:11,971 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0025:{"power_inject": 189}'}
+2024-03-17 18:11:11,972 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0017:{"power_inject": 272}'}
+2024-03-17 18:11:11,974 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0022:{"battery": 246}'}
+2024-03-17 18:11:12,122 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0034:{"power_consumption": 328}'}
+2024-03-17 18:11:12,123 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0044:{"battery": 200, "power_income": 369, "power_inject": 130}'}
+2024-03-17 18:11:12,167 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0040:{"battery": 321}'}
+2024-03-17 18:11:12,170 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0042:{"power_income": 238}'}
+2024-03-17 18:11:12,171 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0035:{"battery": 320}'}
+2024-03-17 18:11:12,172 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0022:{"power_consumption": 393}'}
+2024-03-17 18:11:12,323 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0036:{"power_consumption": 16}'}
+2024-03-17 18:11:12,370 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0042:{"battery": 203}'}
+2024-03-17 18:11:12,919 INFO consumers.py: received: {'type': 'UPDT', 'message': '0036:0004:{"power_inject": 393, "power_income": 264}'}
+2024-03-17 18:11:12,966 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0033:{"power_income": 306}'}
+2024-03-17 18:11:12,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0007:{"power_income": 15}'}
+2024-03-17 18:11:12,970 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0005:{"power_consumption": 91}'}
+2024-03-17 18:11:12,972 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0031:{"power_income": 258}'}
+2024-03-17 18:11:13,122 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0029:{"power_inject": 415}'}
+2024-03-17 18:11:13,185 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0050:{"power_inject": 22}'}
+2024-03-17 18:11:13,188 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0046:{"power_inject": 190}'}
+2024-03-17 18:11:13,189 INFO consumers.py: received: {'type': 'UPDT', 'message': '0037:0014:{"power_income": 156}'}
+2024-03-17 18:11:13,191 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0049:{"battery": 194}'}
+2024-03-17 18:11:13,192 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0030:{"power_income": 421}'}
+2024-03-17 18:11:13,956 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0011:{"battery": 181}'}
+2024-03-17 18:11:13,993 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0015:{"battery": 389, "power_income": 138, "power_consumption": 247}'}
+2024-03-17 18:11:13,996 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0024:{"power_inject": 18}'}
+2024-03-17 18:11:13,998 INFO consumers.py: received: {'type': 'UPDT', 'message': '0032:0005:{"power_inject": 12}'}
+2024-03-17 18:11:14,000 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0012:{"power_consumption": 421}'}
+2024-03-17 18:11:14,210 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0046:{"power_inject": 191, "battery": 333}'}
+2024-03-17 18:11:14,213 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0035:{"battery": 321}'}
+2024-03-17 18:11:14,214 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0040:{"power_income": 389}'}
+2024-03-17 18:11:14,216 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0033:{"power_inject": 370}'}
+2024-03-17 18:11:14,833 INFO consumers.py: received: {'type': 'UPDT', 'message': '0036:0003:{"power_consumption": 99}'}
+2024-03-17 18:11:14,975 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0010:{"battery": 187}'}
+2024-03-17 18:11:14,978 INFO consumers.py: received: {'type': 'UPDT', 'message': '0037:0004:{"power_inject": 394}'}
+2024-03-17 18:11:15,027 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0021:{"power_income": 349}'}
+2024-03-17 18:11:15,031 INFO consumers.py: received: {'type': 'UPDT', 'message': '0032:0012:{"battery": 412}'}
+2024-03-17 18:11:15,032 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0023:{"battery": 242}'}
+2024-03-17 18:11:15,033 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0031:{"power_inject": 346}'}
+2024-03-17 18:11:15,034 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0041:{"power_inject": 86}'}
+2024-03-17 18:11:15,040 INFO consumers.py: received: {'type': 'UPDT', 'message': '0037:0003:{"power_income": 66}'}
+2024-03-17 18:11:15,162 INFO consumers.py: received: {'type': 'UPDT', 'message': '0014:0037:{"power_consumption": 336}'}
+2024-03-17 18:11:15,244 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0049:{"power_consumption": 169}'}
+2024-03-17 18:11:15,246 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0047:{"power_income": 14, "power_inject": 14}'}
+2024-03-17 18:11:15,360 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0034:{"power_inject": 393}'}
+2024-03-17 18:11:16,059 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0030:{"power_consumption": 207}'}
+2024-03-17 18:11:16,061 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0043:{"power_income": 64}'}
+2024-03-17 18:11:16,062 INFO consumers.py: received: {'type': 'UPDT', 'message': '0038:0003:{"power_income": 67}'}
+2024-03-17 18:11:16,063 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0023:{"power_inject": 408}'}
+2024-03-17 18:11:16,064 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0039:{"battery": 146}'}
+2024-03-17 18:11:16,176 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0036:{"power_income": 288}'}
+2024-03-17 18:11:16,210 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0010:{"power_consumption": 393}'}
+2024-03-17 18:11:16,244 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0047:{"power_inject": 15}'}
+2024-03-17 18:11:17,058 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0024:{"power_inject": 19}'}
+2024-03-17 18:11:17,059 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0017:{"power_consumption": 72}'}
+2024-03-17 18:11:17,062 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0018:{"power_consumption": 221}'}
+2024-03-17 18:11:17,276 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0046:{"battery": 334}'}
+2024-03-17 18:11:17,360 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0048:{"power_inject": 423}'}
+2024-03-17 18:11:17,879 INFO consumers.py: received: {'type': 'UPDT', 'message': '0032:0017:{"power_income": 199}'}
+2024-03-17 18:11:18,080 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0026:{"power_inject": 60}'}
+2024-03-17 18:11:18,082 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0021:{"power_income": 350}'}
+2024-03-17 18:11:18,279 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0025:{"power_income": 314}'}
+2024-03-17 18:11:18,283 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0032:{"power_income": 88}'}
+2024-03-17 18:11:18,912 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0009:{"power_income": 262}'}
+2024-03-17 18:11:18,916 INFO consumers.py: received: {'type': 'UPDT', 'message': '0033:0012:{"power_inject": 212}'}
+2024-03-17 18:11:18,918 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0018:{"battery": 173}'}
+2024-03-17 18:11:18,997 INFO consumers.py: received: {'type': 'UPDT', 'message': '0046:0006:{"power_income": 130}'}
+2024-03-17 18:11:19,091 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0028:{"power_consumption": 381}'}
+2024-03-17 18:11:19,093 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0031:{"battery": 106}'}
+2024-03-17 18:11:19,094 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0047:{"battery": 385}'}
+2024-03-17 18:11:19,098 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0038:{"power_consumption": 262}'}
+2024-03-17 18:11:19,923 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0015:{"power_inject": 255}'}
+2024-03-17 18:11:19,926 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0024:{"battery": 391}'}
+2024-03-17 18:11:19,927 INFO consumers.py: received: {'type': 'UPDT', 'message': '0033:0017:{"power_inject": 273}'}
+2024-03-17 18:11:20,020 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0045:{"battery": 11}'}
+2024-03-17 18:11:20,022 INFO consumers.py: received: {'type': 'UPDT', 'message': '0015:0037:{"power_inject": 396}'}
+2024-03-17 18:11:20,113 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0049:{"power_inject": 322}'}
+2024-03-17 18:11:20,116 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0046:{"battery": 335}'}
+2024-03-17 18:11:20,959 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0007:{"power_inject": 156}'}
+2024-03-17 18:11:20,963 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0016:{"battery": 380}'}
+2024-03-17 18:11:21,046 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0034:{"battery": 323}'}
+2024-03-17 18:11:21,160 INFO consumers.py: received: {'type': 'UPDT', 'message': '0034:0001:{"local_time": "2024-03-17 18:11:21.046190"}'}
+2024-03-17 18:11:21,163 INFO consumers.py: received: {'type': 'UPDT', 'message': '0041:0002:{"local_time": "2024-03-17 18:11:21.047524"}'}
+2024-03-17 18:11:21,166 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0032:{"local_time": "2024-03-17 18:11:21.049439"}'}
+2024-03-17 18:11:21,168 INFO consumers.py: received: {'type': 'UPDT', 'message': '0033:0013:{"local_time": "2024-03-17 18:11:21.110791"}'}
+2024-03-17 18:11:21,169 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0050:{"power_income": 277}'}
+2024-03-17 18:11:21,170 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0028:{"local_time": "2024-03-17 18:11:21.048031"}'}
+2024-03-17 18:11:21,173 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0039:{"local_time": "2024-03-17 18:11:21.048912"}'}
+2024-03-17 18:11:21,259 INFO consumers.py: received: {'type': 'UPDT', 'message': '0047:0006:{"local_time": "2024-03-17 18:11:21.046190"}'}
+2024-03-17 18:11:21,262 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0045:{"power_inject": 212}'}
+2024-03-17 18:11:21,358 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0043:{"power_inject": 254}'}
+2024-03-17 18:11:21,564 INFO consumers.py: received: {'type': 'UPDT', 'message': '0033:0005:{"local_time": "2024-03-17 18:11:21.528585"}'}
+2024-03-17 18:11:21,566 INFO consumers.py: received: {'type': 'UPDT', 'message': '0032:0009:{"local_time": "2024-03-17 18:11:21.528585"}'}
+2024-03-17 18:11:21,567 INFO consumers.py: received: {'type': 'UPDT', 'message': '0032:0007:{"local_time": "2024-03-17 18:11:21.360007"}'}
+2024-03-17 18:11:21,569 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0024:{"local_time": "2024-03-17 18:11:21.527056"}'}
+2024-03-17 18:11:21,571 INFO consumers.py: received: {'type': 'UPDT', 'message': '0038:0014:{"local_time": "2024-03-17 18:11:21.528585"}'}
+2024-03-17 18:11:21,572 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0040:{"local_time": "2024-03-17 18:11:21.527056"}'}
+2024-03-17 18:11:21,573 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0047:{"local_time": "2024-03-17 18:11:21.528585"}'}
+2024-03-17 18:11:21,694 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0029:{"local_time": "2024-03-17 18:11:21.528065"}'}
+2024-03-17 18:11:21,696 INFO consumers.py: received: {'type': 'UPDT', 'message': '0038:0004:{"local_time": "2024-03-17 18:11:21.527056"}'}
+2024-03-17 18:11:21,911 INFO consumers.py: received: {'type': 'UPDT', 'message': '0048:0006:{"power_inject": 289}'}
+2024-03-17 18:11:21,979 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0024:{"power_consumption": 52}'}
+2024-03-17 18:11:21,982 INFO consumers.py: received: {'type': 'UPDT', 'message': '0039:0003:{"power_inject": 190}'}
+2024-03-17 18:11:21,983 INFO consumers.py: received: {'type': 'UPDT', 'message': '0023:0020:{"power_inject": 170}'}
+2024-03-17 18:11:21,984 INFO consumers.py: received: {'type': 'UPDT', 'message': '0035:0001:{"power_income": 22}'}
+2024-03-17 18:11:21,986 INFO consumers.py: received: {'type': 'UPDT', 'message': '0018:0016:{"power_inject": 108}'}
+2024-03-17 18:11:22,079 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0044:{"local_time": "2024-03-17 18:11:22.026756"}'}
+2024-03-17 18:11:22,112 INFO consumers.py: received: {'type': 'UPDT', 'message': '0020:0034:{"power_income": 115}'}
+2024-03-17 18:11:22,114 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0048:{"battery": 374}'}
+2024-03-17 18:11:22,116 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0045:{"battery": 12}'}
+2024-03-17 18:11:22,174 INFO consumers.py: received: {'type': 'UPDT', 'message': '0040:0003:{"local_time": "2024-03-17 18:11:22.026756"}'}
+2024-03-17 18:11:22,178 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0041:{"local_time": "2024-03-17 18:11:22.028322"}'}
+2024-03-17 18:11:22,180 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0043:{"local_time": "2024-03-17 18:11:22.027803"}'}
+2024-03-17 18:11:22,181 INFO consumers.py: received: {'type': 'UPDT', 'message': '0034:0017:{"local_time": "2024-03-17 18:11:22.027280"}'}
+2024-03-17 18:11:22,183 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0049:{"power_income": 216}'}
+2024-03-17 18:11:22,184 INFO consumers.py: received: {'type': 'UPDT', 'message': '0027:0050:{"local_time": "2024-03-17 18:11:22.026234"}'}
+2024-03-17 18:11:22,314 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0029:{"power_consumption": 34}'}
+2024-03-17 18:11:22,907 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0010:{"power_inject": 389}'}
+2024-03-17 18:11:22,961 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0026:{"power_consumption": 370}'}
+2024-03-17 18:11:22,965 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0032:{"power_inject": 394}'}
+2024-03-17 18:11:22,967 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0023:{"power_consumption": 107}'}
+2024-03-17 18:11:22,968 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0015:{"power_consumption": 248, "battery": 390}'}
+2024-03-17 18:11:22,969 INFO consumers.py: received: {'type': 'UPDT', 'message': '0031:0008:{"power_income": 78}'}
+2024-03-17 18:11:22,970 INFO consumers.py: received: {'type': 'UPDT', 'message': '0019:0016:{"battery": 381, "power_consumption": 38}'}
+2024-03-17 18:11:23,107 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0029:{"battery": 281}'}
+2024-03-17 18:11:23,178 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0038:{"power_inject": 21}'}
+2024-03-17 18:11:23,311 INFO consumers.py: received: {'type': 'UPDT', 'message': '0030:0029:{"power_consumption": 35}'}
+2024-03-17 18:11:23,927 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0010:{"power_income": 370}'}
+2024-03-17 18:11:23,995 INFO consumers.py: received: {'type': 'UPDT', 'message': '0042:0002:{"power_inject": 319}'}
+2024-03-17 18:11:23,999 INFO consumers.py: received: {'type': 'UPDT', 'message': '0017:0023:{"power_inject": 409}'}
+2024-03-17 18:11:24,000 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0030:{"battery": 395}'}
+2024-03-17 18:11:24,002 INFO consumers.py: received: {'type': 'UPDT', 'message': '0026:0040:{"power_inject": 360}'}
+2024-03-17 18:11:24,003 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0020:{"power_income": 345}'}
+2024-03-17 18:11:24,004 INFO consumers.py: received: {'type': 'UPDT', 'message': '0033:0009:{"battery": 83}'}
+2024-03-17 18:11:24,110 INFO consumers.py: received: {'type': 'UPDT', 'message': '0039:0004:{"battery": 268}'}
+2024-03-17 18:11:24,210 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0046:{"power_inject": 192}'}
+2024-03-17 18:11:24,212 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0022:{"power_consumption": 394}'}
+2024-03-17 18:11:24,214 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0035:{"power_inject": 379}'}
+2024-03-17 18:11:24,214 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0050:{"power_consumption": 318}'}
+2024-03-17 18:11:24,309 INFO consumers.py: received: {'type': 'UPDT', 'message': '0021:0034:{"power_inject": 394}'}
+2024-03-17 18:11:24,409 INFO consumers.py: received: {'type': 'UPDT', 'message': '0024:0042:{"battery": 204}'}
+2024-03-17 18:11:24,794 INFO consumers.py: received: {'type': 'UPDT', 'message': '0043:0002:{"power_inject": 320}'}
+2024-03-17 18:11:24,961 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0011:{"power_consumption": 184}'}
+2024-03-17 18:11:24,994 INFO consumers.py: received: {'type': 'UPDT', 'message': '0034:0009:{"power_consumption": 163}'}
+2024-03-17 18:11:24,998 INFO consumers.py: received: {'type': 'UPDT', 'message': '0036:0001:{"power_consumption": 83}'}
+2024-03-17 18:11:24,999 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0020:{"battery": 402}'}
+2024-03-17 18:11:25,000 INFO consumers.py: received: {'type': 'UPDT', 'message': '0025:0022:{"power_inject": 9}'}
+2024-03-17 18:11:25,160 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0048:{"power_income": 175}'}
+2024-03-17 18:11:25,165 INFO consumers.py: received: {'type': 'UPDT', 'message': '0028:0044:{"battery": 201}'}
+2024-03-17 18:11:25,210 INFO consumers.py: received: {'type': 'UPDT', 'message': '0035:0017:{"battery": 110}'}
+2024-03-17 18:11:25,214 INFO consumers.py: received: {'type': 'UPDT', 'message': '0029:0050:{"power_inject": 23}'}
+2024-03-17 18:11:25,358 INFO consumers.py: received: {'type': 'UPDT', 'message': '0022:0034:{"power_inject": 395}'}
+2024-03-17 18:11:25,359 INFO consumers.py: received: {'type': 'UPDT', 'message': '0016:0037:{"power_income": 68}'}
+2024-03-17 18:11:25,875 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248825AB0> with code 1000
+2024-03-17 18:11:25,876 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E60B0> with code 1000
+2024-03-17 18:11:25,877 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E7760> with code 1000
+2024-03-17 18:11:25,882 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E66E0> with code 1000
+2024-03-17 18:11:25,882 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E6B00> with code 1000
+2024-03-17 18:11:25,883 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488262F0> with code 1000
+2024-03-17 18:11:25,883 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E64D0> with code 1000
+2024-03-17 18:11:25,883 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E7970> with code 1000
+2024-03-17 18:11:25,885 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248CAF580> with code 1000
+2024-03-17 18:11:25,885 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248CAF0D0> with code 1000
+2024-03-17 18:11:25,885 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248825060> with code 1000
+2024-03-17 18:11:25,886 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E6F20> with code 1000
+2024-03-17 18:11:25,886 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E68F0> with code 1000
+2024-03-17 18:11:25,887 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248CAF460> with code 1000
+2024-03-17 18:11:25,887 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E5A80> with code 1000
+2024-03-17 18:11:25,887 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E6D10> with code 1000
+2024-03-17 18:11:25,887 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E7B80> with code 1000
+2024-03-17 18:11:25,888 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248824E50> with code 1000
+2024-03-17 18:11:25,888 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248CAF100> with code 1000
+2024-03-17 18:11:25,889 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248824C40> with code 1000
+2024-03-17 18:11:25,889 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248874F40> with code 1000
+2024-03-17 18:11:25,889 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E5EA0> with code 1000
+2024-03-17 18:11:25,890 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E5C90> with code 1000
+2024-03-17 18:11:25,890 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488241F0> with code 1000
+2024-03-17 18:11:25,890 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E7D90> with code 1000
+2024-03-17 18:11:25,891 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248CAF520> with code 1000
+2024-03-17 18:11:25,891 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488258A0> with code 1000
+2024-03-17 18:11:25,891 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248824400> with code 1000
+2024-03-17 18:11:25,891 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E7130> with code 1000
+2024-03-17 18:11:25,893 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248CAF4F0> with code 1000
+2024-03-17 18:11:25,893 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248825690> with code 1000
+2024-03-17 18:11:25,893 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262485BB3D0> with code 1000
+2024-03-17 18:11:25,894 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248825270> with code 1000
+2024-03-17 18:11:25,894 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248825CC0> with code 1000
+2024-03-17 18:11:25,894 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248825480> with code 1000
+2024-03-17 18:11:25,895 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248B77430> with code 1000
+2024-03-17 18:11:25,895 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248826500> with code 1000
+2024-03-17 18:11:25,895 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488260E0> with code 1000
+2024-03-17 18:11:25,896 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248B75090> with code 1000
+2024-03-17 18:11:25,897 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248825ED0> with code 1000
+2024-03-17 18:11:25,898 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248CAFA30> with code 1000
+2024-03-17 18:11:25,898 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E7550> with code 1000
+2024-03-17 18:11:25,898 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248CAFE80> with code 1000
+2024-03-17 18:11:25,899 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E7340> with code 1000
+2024-03-17 18:11:25,900 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E62C0> with code 1000
+2024-03-17 18:11:25,900 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248824A30> with code 1000
+2024-03-17 18:11:25,900 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248824820> with code 1000
+2024-03-17 18:11:25,901 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x00000262488E7FA0> with code 1000
+2024-03-17 18:11:25,901 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248CAFBB0> with code 1000
+2024-03-17 18:11:25,901 INFO consumers.py: Lost connection <database.consumers.SolServerConsumer object at 0x0000026248824610> with code 1000

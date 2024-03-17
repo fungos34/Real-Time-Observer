@@ -1,0 +1,140 @@
+
+body {
+    background-color: lightskyblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#header-1, #header-2 {
+    text-align: center;
+}
+
+#main-div {
+    padding: 20px;
+    width: 100% - 40px;
+    border-radius: 15px;
+    background-color: lightcyan;
+}
+
+input,select{
+    background-color: beige;
+    height: 30px;
+    border-radius: 4px;
+    margin: 5px;
+}
+
+#filter_value {
+    margin: 0;
+}
+
+@keyframes fadeout-1 {
+    0%   {background-color:greenyellow; opacity: 1; padding: 10px; height: 20px; font-size: 100%;}
+    75% {background-color: greenyellow; opacity: 1; padding: 10px; height: 20px; font-size: 100%;}
+    100% {background-color: greenyellow; opacity: 0; padding: 0px; height: 0px; font-size: 0%;}
+}
+
+#filter-info {
+    opacity: 1;
+    border-radius: 5px;
+    border-color: green;
+    color: green;
+    background-color: greenyellow;
+    animation-name: fadeout-1;
+    animation-duration: 3s;
+}
+
+#numberMatchingResults {
+    padding: 5px;
+}
+
+#btn-add-filter, #btn-add-sort {
+    background-color: green;
+    height: 30px;
+    width: 30px;
+}
+#btn-add-filter:hover, #btn-add-sort:hover {
+    background-color: lightgreen;
+}
+#btn-sub-filter, #btn-sub-sort {
+    background-color: red;
+    height: 30px;
+    width: 30px;
+}
+#btn-sub-filter:hover, #btn-sub-sort:hover {
+    background-color: yellow;
+}
+
+
+#btn-apply-filter {
+    background-color: green;
+}
+#btn-apply-filter:hover {
+    background-color: lightgreen;
+}
+
+#div-1 {
+    background-color: lightblue;
+    display: block;
+    border-radius: 15px;
+    border-style: 3px solid black;
+    padding: 15px;
+    text-align: center;
+}
+
+.container-filter, .container-sorting {
+    float: left;
+}
+
+
+.solmate-table-data {
+    text-align: center;
+    border-right: solid 1px gray;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+@keyframes highlight-fadeout {
+    0%      {background-color: rgba(255, 0, 0, 0);}
+    50%     {background-color: rgba(255, 0, 0, 1);}
+    100%    {background-color: rgba(255, 0, 0, 0);}
+}
+
+.update-visualisation-animation {
+    animation-name: highlight-fadeout;
+    animation-duration: 0.5s;
+    /* transition: background-color 2s ease-out; */
+}
+
+.btn-active {
+    background-color: greenyellow;
+}
+
+#solmate-table {
+    border-collapse: collapse;
+}
+
+tr {
+    border: solid 3px black;
+}
+
+/* tr:hover {
+    font-weight: 1000;
+    font-size: 90%;
+} */
+
+#solmate-table-row-0:hover {
+    font-size: 100%;
+}
+
+th {
+    background-color: skyblue;
+    border-right: solid 3px black;
+    padding: 5px;
+}
+
+.solmate-table-row:hover {
+    background-color: whitesmoke;
+    font-weight: 2000;
+    padding: 5px;
+}
+
+

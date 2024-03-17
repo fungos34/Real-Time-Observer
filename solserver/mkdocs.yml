@@ -1,0 +1,11 @@
+site_name: SMART-OS
+nav:
+    - About: readme.md
+    - Get Started: index.md
+    - Specifications: specifications.md
+    - Architecture: architecture.md
+theme: dracula
+plugins: 
+    - mkdocs-jupyter:
+          execute: true
+          allow_errors: true

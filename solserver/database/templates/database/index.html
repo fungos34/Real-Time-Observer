@@ -1,0 +1,340 @@
+{% extends 'database/client.html' %}
+
+{% block updates %}
+<!-- Start Filter/Sorting Form -->
+<form id="filterSortForm" method="POST" action="{% url 'index' %}">
+    {% csrf_token %}
+    <div class="container-filter">
+        <label class="container-filter"><strong>Filter:</strong></label><br>
+        <!-- Start Filter -->
+        <div class="container-filter">
+            <div id="filter-1">
+                <select id="filter_name" required="true">
+                    <option id="serial_number" value="serial_number">Serial Number [1234]</option>
+                    <option id="software_version" value="software_version">Software Version [v1.0]</option>
+                    <option id="country" value="country">Two Letter Country Code [at]</option>
+                    <option id="postcode" value="postcode">Four Digit Post Code [8000]</option>
+                    <option id="power_income" value="power_income">Power coming from PV [W]</option>
+                    <option id="power_inject" value="power_inject">Power Inject to Grid [W]</option>
+                    <option id="power_consumption" value="power_consumption">Household Power Consumtion [W]</option>
+                    <option id="battery" value="battery">Battery Charging State [%]</option>
+                    <option id="solmate_version" value="solmate_version">SolMate Edition [v1]</option>
+                    <option id="pv_connectors" value="pv_connectors">Number of PV Connectors [1]</option>
+                    <option id="owner" value="owner">Owner Name [EET]</option>
+                </select>
+                <select id="filter_conditional" required="true">
+                    <option value="<">smaller as</option>
+                    <option value=">">bigger as</option>
+                    <option value="<=">smaller or equal as</option>
+                    <option value=">=">bigger or equal as</option>
+                    <option value="=" selected="selected">contains string</option>
+                    <option value="==">equal number</option>
+                    <option value="^">starts with char</option>
+                </select>
+                <input id="filter_value" type="text" required="true">
+            </div>
+            <div class="container-filter"><input type="button" id="btn-add-filter" value="+"></input></div>
+            <div class="container-filter"><input type="button" id="btn-sub-filter" value="-"></input></div>
+        </div>
+    </div>
+    <!-- End Filter -->
+    <!-- Start Sorting -->
+    <div class="container-sorting">
+        <label class="container-filter"><strong>Sorting:</strong></label><br>
+        <div class="container-sorting">
+            <div id="sorting-1">
+                <select id="sorting_name" required="true">
+                    <option id="serial_number" value="serial_number">Serial Number [1234]</option>
+                    <option id="software_version" value="software_version">Software Version [v1.0]</option>
+                    <option id="country" value="country">Two Letter Country Code [at]</option>
+                    <option id="postcode" value="postcode">Four Digit Post Code [8000]</option>
+                    <option id="power_income" value="power_income">Power coming from PV [W]</option>
+                    <option id="power_inject" value="power_inject">Power Inject to Grid [W]</option>
+                    <option id="power_consumption" value="power_consumption">Household Power Consumtion [W]</option>
+                    <option id="battery" value="battery">Battery Charging State [%]</option>
+                    <option id="solmate_version" value="solmate_version">SolMate Edition [v1]</option>
+                    <option id="pv_connectors" value="pv_connectors">Number of PV Connectors [1]</option>
+                    <option id="owner" value="owner">Owner Name [EET]</option>
+                </select>
+                <select id="sorting_conditional" required="true">
+                    <option value="<">ascending order</option>
+                    <option value=">">descending order</option>
+                </select>
+                <select id="sorting_value" required="true" hidden>
+                    <option selected="selected" value="abc">alphabetic order</option>
+                    <option value="123">numeric order</option>
+                </select>
+                
+            </div>
+            <div class="container-sorting"><input type="button" id="btn-add-sort" value="+"></input></div>
+            <div class="container-sorting"><input type="button" id="btn-sub-sort" value="-"></input><br></div>
+            
+        </div>
+    </div>
+    <!-- End Sorting -->
+    <br>
+    <input id="btn-apply-filter" type="submit" value="Apply">
+    <input id="btn-switch-updatevisualisation" class="btn-active" type="button" value="Visualize Updates"></input>
+</form>
+<!-- End Filter/Sorting Form -->
+<label id="numberMatchingResults"></label>
+
+
+
+
+<script>
+
+    window.addEventListener("load", (event) => {
+        // On page load all functionality is set up.
+        
+        let ANIMATE_REALTIME_UPDATES = true;
+
+        // Open websocket connection.
+        const ws = new WebSocket(
+            "ws://"
+            + window.location.host
+            + '/client/'
+        );
+
+        let table = document.createElement('table')
+        table.setAttribute('id','solmate-table')
+
+        // document.querySelector('#main-div').appendChild(document.querySelector('#filterSortForm'))
+        document.querySelector('#main-div').appendChild(table)
+
+        ws.onmessage = (e) => {
+            //Handling of an incoming message via websocket. Deals with different identificators like "INIT", "FILT", "UPDT" and "INFO". Otherwise logs it to console as unknown.
+
+            // console.log(e)
+            let data = JSON.parse(e.data);
+            // console.log(data);
+
+            if (data['type'] === 'INFO') {
+                // case INFO
+                console.log(data['message'])
+
+            } else if (data['type'] === 'INIT' || data['type'] === 'FILT') {
+                // case INITIALISATION & FILTERING/SORTING
+                let existingTableEntries = document.querySelectorAll('.solmate-table-replacable')
+                existingTableEntries.forEach((entry) => {
+                    entry.remove()
+                })
+
+                let message = data['message']
+                if (typeof message == typeof ''){
+                    // TODO handle initial INIT type message properly
+                    let fragments = message.split(':');
+                    let messageId = fragments[0];
+                    let serialNumber = fragments[1];
+                    fragmentsCopy = [...fragments];
+                    message = [JSON.parse(fragmentsCopy.slice(2,fragmentsCopy.lenght).join(':'))];
+                    console.log('INITIALISATION HANDLING NOT IMPLEMENTED YET.')
+                    location.reload();
+                }
+                document.querySelector('#numberMatchingResults').innerHTML = `<strong>${message.length} Results</strong>`
+
+                let row = document.createElement('tr')
+                row.setAttribute('id',`solmate-table-row-${0}`)
+                row.setAttribute('class','solmate-table-replacable')
+                if (message[0] != undefined) {
+                    for (k of Object.keys(message[0])) {
+                        let header = document.createElement('th')
+                        header.setAttribute('id',`solmate-table-header-${k}`);
+                        header.setAttribute('class','solmate-table-replacable')
+
+                        // May cause weird header naming, connected to the filter/sorting select options.
+                        let title
+                        try {
+                            // console.log(`#${k}`);
+                            title = document.querySelector(`#${k}`).innerHTML;
+                        } catch (e) {
+                            // console.log(e);
+                            title = k.replaceAll('_',' ');
+                        }  
+                        
+                        header.innerHTML = title;
+                        row.appendChild(header);
+                    }
+                }
+                
+                table.appendChild(row);
+                let i = 1;
+                message.forEach((deviceDatas) => {
+                    let row = document.createElement('tr')
+                    const serial_number = deviceDatas['serial_number']
+                    row.setAttribute('id',`solmate-table-row-${serial_number}-${i}`)
+                    row.setAttribute('class','solmate-table-row solmate-table-replacable')
+                    for (k of Object.keys(deviceDatas)) {
+                        let td = document.createElement('td')
+                        let value;
+                        td.innerHTML = toDateIfDate(deviceDatas[k])
+                        td.setAttribute('id',`solmate-table-update-${serial_number}-${k}`)
+                        td.setAttribute('class','solmate-table-data solmate-table-replacable')
+                        if (ANIMATE_REALTIME_UPDATES) {
+                            td.classList.add('update-visualisation-animation');
+                        }
+                        // td.innerHTML =  `solmate-table-update-${serial_number}-${k}`
+                        row.appendChild(td);
+                    }
+                    table.appendChild(row);
+                    i++
+                })
+            } else if (data['type'] === 'UPDT') {
+                // case UPDATE
+                // console.log(data)
+                let message = data['message']
+                let fragments = message.split(':');
+                let messageId = fragments[0];
+                let serialNumber = fragments[1];
+                fragmentsCopy = [...fragments];
+                let update = JSON.parse(fragmentsCopy.slice(2,fragmentsCopy.lenght).join(':'));
+                update.last_status_update = new Date()
+                
+                for (k of Object.keys(update)) {
+                    updateableField = document.querySelector(`#solmate-table-update-${serialNumber}-${k}`)
+                    if (updateableField != undefined) {
+                        let updateableField_prime = updateableField.cloneNode(true);
+                        updateableField.after(updateableField_prime)
+                        updateableField.remove()
+                    
+                        updateableField_prime.innerHTML = toDateIfDate(update[k]);
+                        if (ANIMATE_REALTIME_UPDATES) {
+                            updateableField_prime.classList.add('update-visualisation-animation');
+                        }
+                        
+                    }
+                }
+            } else {
+                console.log('RECEIVED UNKNOWN: ', data['message'])
+            }
+        }
+
+
+
+        document.getElementById('filterSortForm').addEventListener('submit', (event) => {
+            // Handles the submission of filter and sorting conditions via websocket.
+            event.preventDefault()
+            filterSortingString = []
+            let form = document.querySelector('#filterSortForm')
+            filter_names = form.querySelectorAll('#filter_name')
+            filter_conditionals = form.querySelectorAll('#filter_conditional')
+            filter_values = form.querySelectorAll('#filter_value')
+            for (let i=0; i<filter_names.length; i++) {
+                let name = filter_names[i].value
+                let conditional = filter_conditionals[i].value
+                let value = filter_values[i].value
+                filterSortingString.push('filter' + ':' + name.toString() + ':' + conditional.toString() + ':' + value.toString())
+            }
+
+            sorting_names = form.querySelectorAll('#sorting_name')
+            sorting_conditionals = form.querySelectorAll('#sorting_conditional')
+            sorting_values = form.querySelectorAll('#sorting_value')
+            for (let i=0; i<sorting_names.length; i++) {
+                let name = sorting_names[i].value
+                let conditional = sorting_conditionals[i].value
+                let value = sorting_values[i].value
+                filterSortingString.push('sort' + ':' + name.toString() + ':' + conditional.toString() + ':' + value.toString())
+            }
+
+            // console.log(filterSortingString)
+            // console.log(JSON.stringify({"type":"FILT","message":filterSortingString}))
+            ws.send(JSON.stringify({"type":"FILT","message":filterSortingString}));
+
+            // Create feedback elements.
+            let info = document.createElement('label');
+            let infoDiv = document.createElement('div');
+            info.innerHTML = 'applying filter ...'
+            infoDiv.appendChild(info);
+            infoDiv.setAttribute('id','filter-info');
+            let parentNode = document.querySelector("#main-div")
+            parentNode.insertBefore(infoDiv,document.querySelector("#filterSortForm"));
+            setTimeout(() => {
+                infoDiv.remove();
+            }, 3000);
+
+            
+        })
+
+        let filterCount = 1;
+        let sortingCount = 1;
+
+        document.getElementById('btn-add-filter').addEventListener('click', (event) => {
+            // Enables adding another filter to the GUI.
+            event.preventDefault();
+            let filter = document.getElementById('filter-1');
+            let newFilter = filter.cloneNode(true);
+            filterCount++
+            newFilter.setAttribute('id',`filter-${filterCount}`);
+            filter.after(newFilter);
+        })
+
+        document.getElementById('btn-sub-filter').addEventListener('click', (event) => {
+            // Enables removing a filter of the GUI, but not the last one.
+            event.preventDefault();
+            if (filterCount > 1) {
+                let filter = document.getElementById(`filter-${filterCount}`);
+                filter.remove();
+                filterCount--
+            }
+        })
+
+        document.getElementById('btn-add-sort').addEventListener('click', (event) => {
+            // Enables adding a sorting rule to the GUI.
+            event.preventDefault();
+            let filter = document.getElementById('sorting-1');
+            let newFilter = filter.cloneNode(true);
+            sortingCount++
+            newFilter.setAttribute('id',`sorting-${sortingCount}`);
+            filter.after(newFilter);
+            
+        })
+
+        document.getElementById('btn-sub-sort').addEventListener('click', (event) => {
+            // Enables to remove a sorting rule from the GUI, but not the last one.
+            event.preventDefault();
+            if (sortingCount > 1) {
+                let filter = document.getElementById(`sorting-${sortingCount}`);
+                filter.remove();
+                sortingCount--
+            }
+        })
+
+        document.getElementById("btn-switch-updatevisualisation").addEventListener('click', (event) => {
+            // Enables switching on and off the update visualisation in the GUI.
+            event.preventDefault();
+            ANIMATE_REALTIME_UPDATES =  !ANIMATE_REALTIME_UPDATES;
+            if (ANIMATE_REALTIME_UPDATES) {
+                document.getElementById("btn-switch-updatevisualisation").classList.add('btn-active')
+            } else {
+                document.getElementById("btn-switch-updatevisualisation").classList.remove('btn-active')
+            }
+            console.log('Update Animation ',ANIMATE_REALTIME_UPDATES);
+        })
+
+        function toDateIfDate(string) {
+            // Recognises a string as a date, if it is in a range of specific regular expressions and converts it to a Date if it is applicable.
+            let value;
+            const timeFormatRegex = /^\d{4}-\d{2}-\d{2}[T ]\d{2}:\d{2}:\d{2}.\d*[Z ]?$/;
+            const dateFormatRegex = /^(Sun|Mon|Tue|Wed|Thu|Fri|Sat) (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) \d{2} \d{4} \d{2}:\d{2}:\d{2} GMT[+-]\d{4} \(.+\)$/;
+            let regexTime = new RegExp(timeFormatRegex);
+            let regexDate = new RegExp(dateFormatRegex);
+            if (regexTime.test(string) || regexDate.test(string)) {
+                value = new Date(string);
+                // console.log(string, ' is a datetime')
+                return value;
+            } else {
+                value = string
+                // console.log(string, ' is not a datetime')
+                return value;
+            }
+        }
+        
+
+    });
+
+
+</script>
+<div>
+</div>
+
+{% endblock %}
