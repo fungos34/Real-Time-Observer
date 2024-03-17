@@ -24,29 +24,6 @@ The SolMate Real-Time ObServer Documentation
 [![Web Interface of SMART-OS](GUI-screenshot.png)](https://youtu.be/cNrweBXyBPA)
 interactive interface with filter and sorting options. The data gets updated in Real-Time.
 
-# Distinctiveness and Complexity
-This project uses Asynchronous programming throughout at the back- and frontend. Concurrent programming is used to simulate multiple remote devices at the same machine.
-
-This application does not require continuing client http requests to the server to keep all data updated in Real-Time. Hence this project adds a new level of complexity, performance and enriches the web-development skillset with another useful tool.  
-
-Furthermore this project contains thorough testing capabilities.
-
-The main focus of this project lies in the Real-Time and performant behaviour in data transmission, as well as data simulation. The data customisation is achieved via filter and sorting options.
-
-This project has a real world application, when running the according lightweight python file on any remote device connected with the server. This is because this lightweight python file can easily be customized to represent data of personal interest, related to the machine which it runs on.
-
-## No Social Network
-To distuingish from a social network, this project has no ability to post or chat, alltough Django Channels is able to run a chat application very efficiently with Real-Time communication.
-
-## No E-Commerce Site
-To distinguish from a Commerce site this project does not contain any selling or buying functionality. 
-
-## Utilizes Django
-This App utilizes the Django Framework and makes use of its Channels module, the asynchronous websocket implementation in Django. 
-
-## App is Mobile Responsive
-This app has been successfully tested in a local network utilizing Raspberry Pi 4B as remote device (running the lightweight python file), while running the Django Channels Webserver on a computer within this network and accessing it with multiple client devices (Cellphone and laptop) at the same time. The application has been successfully tested with up to 267 simulated remote device instances, updating in Real-Time to the Server, distributed in Real-Time to all clients accessing the server via a browser.
-
 # About SMART-OS
 Updated as of 17.03.2024 
 
@@ -88,6 +65,28 @@ As any software also this has some potential for improvement and customisation:
 
 * implement capability for IoT (each device should obtain all the data of all the other devices via implementing another channel to achieve this)
 
+# Distinctiveness and Complexity
+This project uses Asynchronous programming throughout at the back- and frontend. Concurrent programming is used to simulate multiple remote devices at the same machine.
+
+This application does not require continuing client http requests to the server to keep all data updated in Real-Time. Hence this project adds a new level of complexity, performance and enriches the web-development skillset with another useful tool.  
+
+Furthermore this project contains thorough testing capabilities.
+
+The main focus of this project lies in the Real-Time and performant behaviour in data transmission, as well as data simulation. The data customisation is achieved via filter and sorting options.
+
+This project has a real world application, when running the according lightweight python file on any remote device connected with the server. This is because this lightweight python file can easily be customized to represent data of personal interest, related to the machine which it runs on.
+
+## No Social Network
+To distuingish from a social network, this project has no ability to post or chat, alltough Django Channels is able to run a chat application very efficiently with Real-Time communication.
+
+## No E-Commerce Site
+To distinguish from a Commerce site this project does not contain any selling or buying functionality. 
+
+## Utilizes Django
+This App utilizes the Django Framework and makes use of its Channels module, the asynchronous websocket implementation in Django. 
+
+## App is Mobile Responsive
+This app has been successfully tested in a local network utilizing Raspberry Pi 4B as remote device (running the lightweight python file), while running the Django Channels Webserver on a computer within this network and accessing it with multiple client devices (Cellphone and laptop) at the same time. The application has been successfully tested with up to 267 simulated remote device instances, updating in Real-Time to the Server, distributed in Real-Time to all clients accessing the server via a browser.
 
 
 
